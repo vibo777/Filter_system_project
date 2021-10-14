@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Segoe UI';
+    display: flex;
+    justify-content: center;
+    
+    /* Gradient background code  */
+    background: hsla(333, 100%, 53%, 1);
+    background: linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    background: -moz-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    background: -webkit-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1 );
+}
+.container{
+    padding: 50px 10px;
+    width: 80%;
+    /* background-color: gray; */
+    display: flex;
+    flex-direction: column;
+} 
+.superheros{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* background-color: red; */
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} 
+.superhero{
+    width: 22%;
+    box-shadow: 0 0 2px gray;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.superhero_img{
+    height: 350px;
+    width: 100%;
+    /* background-color: yellow; */
+    overflow: hidden;
+}
+.img{
+    width: 100%;
+}
+
+.superhero_details{
+    /* height:200px; */
+    width: 100%;
+    padding: 5px 5px;
+    /* background-color: blue;  */
+}
+.powerstats{
+    margin-top: 15px;
+    
+}
+.powerstats > p{
+    padding: 5px 0px;
+}
+.bodystats{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.power_bg{
+    width: 95%;
+    height: 10px;
+    background-color:lightgrey;
+    margin-top: 5px;
+}
+.power_fg{
+    height: 10px;
+    background-color: red;
+    margin-top: 5px;
+}
