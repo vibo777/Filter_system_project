@@ -30282,6 +30282,34 @@ let superheroes = [
     }
   ]
 
+let data = superheroes.map((superhero)=>{
+    return superhero.biography.publisher;
+})
+
+console.log(data);
+
+let newdata = [];
+
+data.forEach((d)=>{
+
+    if(newdata.length==0)
+    {
+        newdata.push(d);
+    }
+    else if(newdata.lenght!=0 && newdata.includes(d)==false){
+        newdata.push(d);
+    }
+}) 
+ 
+let optionStrring="";
+  newdata.forEach((p)=>{
+    if(p!=null){
+      optionStrring+=`<option value='${p}'>${p}</option>`; 
+    }
+  })
+  console.log(optionStrring);
+
+
 console.log(JSON.stringify(superheroes));
 
     display=()=>{
@@ -30343,19 +30371,25 @@ console.log(JSON.stringify(superheroes));
 // Filter state Management 
 
     let filters = {
-        gender:{active:false,value = ""}
-    }
+        gender:{active:false,value:""},
+        publisher:{active:false,value:""},  
+      }
 
     applyFilter=(filtername,value)=>{
     
-    if(value!==""){
+    if(value!=="")
+    {
       filters[filtername].active = true;
       filters[filtername].value = value; 
     }  
+    else{
+      filters[filtername].active = false;
+      filters[filtername].value = "";
+    }
     console.log(filters);  
   }
   
-  applyFilter("gender","male");
+ 
  
 
 

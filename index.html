@@ -14,12 +14,31 @@
 
         <div>
             <div class="filters">
-                <select class="filter_field">
-                    <option>select Gender</option>
+                <select class="filter_field" onchange="applyFilter('gender',this.value)">
+                    <option value="">select Gender</option>
                     <option value="male">Male</option>
                     <option value="female">Female</option>
                     <option value="Other">Other</option>
-                </select>        
+                </select>     
+                
+                <select class="filter_field" onchange="applyFilter('gender',this.value)">
+                    <option value="">select Publisher</option>
+                    <option value="male">Marval Comics</option>
+                    <option value="female">Dc Comics</option>
+                    <option value="Other">NBC - Heroes</option>
+                    <option value="">Wildstrom</option>
+                    <option value="">Dark Horse Comics</option>
+                    <option value="">Archangel</option>
+                    <option value="">Tempest</option>
+                    <option value="">Giant-Man</option>
+                    <option value="">Toxin</option>
+                    <option value="">Goliath</option>
+                    <option value="">Oracle</option>
+                    <option value="">Spoler</option>
+                    <option value=""></option>
+                    <option value=""></option>
+                </select>
+
                 <div class="filter_btn">
                     <button class="btn">Apply Filter</button>
                     <button class="btn">Cancel Filter</button>
