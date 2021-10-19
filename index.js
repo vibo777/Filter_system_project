@@ -30340,8 +30340,25 @@ console.log(JSON.stringify(superheroes));
 
     display();
 
+// Filter state Management 
 
+    let filters = {
+        gender:{active:false,value = ""}
+    }
+
+    applyFilter=(filtername,value)=>{
     
+    if(value!==""){
+      filters[filtername].active = true;
+      filters[filtername].value = value; 
+    }  
+    console.log(filters);  
+  }
+  
+  applyFilter("gender","male");
+ 
+
+
     
  
  

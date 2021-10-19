@@ -14,6 +14,73 @@ body{
     background: -webkit-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1 );
 }
+
+/*  css for filters  */
+.filters{
+    padding-top: 30px;
+    padding-bottom: 30px;  
+    background-color: rgb(164 117 33 / 1);
+    margin-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.filter_field{
+    font-size: 18px;
+    color: white;
+    height: 25px;
+    width: 300px;
+    /* margin-left: 20px; */
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgb(164 117 33 / 1);
+    outline: none;
+    text-indent: 20px;
+}
+.filter_name_field{
+    font-size: 18px;
+    color: white;
+    height: 25px;
+    width: 100%;
+    /* margin-left: 20px; */
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: rgb(164 117 33 / 1);
+    outline: none;
+    text-indent: 20px;
+}
+.filter_btn{
+    margin-top: 12px;
+}
+.apply_btn{
+    font-size: 14px;
+    height: 35px;
+    width: 100px;
+    border-radius:8px;
+    background-color: white;
+    outline: none;
+    border:none;
+}
+.btn{
+    font-size: 14px;
+    height: 35px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius:8px;
+    background-color: white;
+    outline: none;
+       
+    cursor: pointer;
+}
+.btn:active{
+    border: 1px solid white;
+    color: rgb(164 117 33 / 1);
+    background-color: transparent;
+}
+
+
+
+
 .container{
     padding: 50px 10px;
     width: 80%;
