@@ -1,4 +1,4 @@
-let superheroes = [
+let superheroes=[
     {
       "id": 1,
       "name": "A-Bomb",
@@ -30280,37 +30280,39 @@ let superheroes = [
         "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/731-zoom.jpg"
       }
     }
-  ]
+  ];
 
-let data = superheroes.map((superhero)=>{
-    return superhero.biography.publisher;
-})
+// publisher Extraction code
 
-console.log(data);
+// let data = superheroes.map((superhero)=>{
+//     return superhero.biography.publisher;
+// })
+// console.log(data);
 
-let newdata = [];
+// let newdata=[];
 
-data.forEach((d)=>{
+// data.forEach((d)=>{
 
-    if(newdata.length==0)
-    {
-        newdata.push(d);
-    }
-    else if(newdata.lenght!=0 && newdata.includes(d)==false){
-        newdata.push(d);
-    }
-}) 
- 
-let optionStrring="";
-  newdata.forEach((p)=>{
-    if(p!=null){
-      optionStrring+=`<option value='${p}'>${p}</option>`; 
-    }
-  })
-  console.log(optionStrring);
+//     if(newdata.length==0)
+//     {
+//         newdata.push(d);
+//     }
+//     else if(newdata.length!=0 && newdata.includes(d)==false){
+//         newdata.push(d);
+//     }
+// }) 
+// console.log(newdata);
+
+// let optionStrring="";
+//   newdata.forEach((p)=>{
+//     if(p!=null){
+//       optionStrring+=`<option value='${p}'>${p}</option>`; 
+//     }
+//   })
+//   console.log(optionStrring);
 
 
-console.log(JSON.stringify(superheroes));
+console.log(JSON.stringify(superheroes)); 
 
     display=()=>{
 
@@ -30362,8 +30364,8 @@ console.log(JSON.stringify(superheroes));
             </div>    
             `;
         })
-        document.getElementById('superheros').innerHTML = superheroString;
-
+        document.getElementById('superheroes').innerHTML=superheroString;
+         
     }   
 
     display();
