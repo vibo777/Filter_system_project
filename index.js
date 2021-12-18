@@ -30282,6 +30282,10 @@ let superheroes=[
     }
   ];
 
+  let tempsuperheroes = superheroes;
+
+  document.getElementById('count').innerText=tempsuperheroes.length;
+
 // publisher Extraction code
 
 // let data = superheroes.map((superhero)=>{
@@ -30314,11 +30318,11 @@ let superheroes=[
 
 console.log(JSON.stringify(superheroes)); 
 
-    display=()=>{
+    display=(superarray)=>{
 
         let superheroString="";
         
-        superheroes.map((superhero,index)=>{
+        superarray.map((superhero,index)=>{
           
             superheroString+=
             `
@@ -30368,16 +30372,16 @@ console.log(JSON.stringify(superheroes));
          
     }   
 
-    display();
+    display(tempsuperheroes);
 
 // Filter state Management 
 
-    let filters = {
+    let filters = { 
         gender:{active:false,value:""},
         publisher:{active:false,value:""},  
       }
 
-    applyFilter=(filtername,value)=>{
+    selectFilter=(filtername,value)=>{
     
     if(value!=="")
     {
@@ -30391,6 +30395,33 @@ console.log(JSON.stringify(superheroes));
     console.log(filters);  
   }
   
+  applyfilters=()=>{
+
+    tempsuperheroes=superheroes;
+
+    if(filters.gender.active===true){
+
+      tempsuperheroes=superheroes.filter((superheroes,index)=>{
+
+        return superheroes.appearance.gender.toUpperCase()===filters.gender.value.toUpperCase();
+
+      })
+
+    }
+    if(filters.publisher.active===true){
+
+      tempsuperheroes=tempsuperheroes.filter((superhero,index)=>{
+
+        return superhero.biography.publisher.toUpperCase()===filters.publisher.value.toUpperCase(); 
+
+      })   
+
+    }
+    display(tempsuperheroes); 
+    document.getElementById('count').innerText=tempsuperheroes.length;
+
+
+  }
  
  
  
