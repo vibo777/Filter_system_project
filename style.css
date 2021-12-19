@@ -23,8 +23,12 @@ body{
     margin-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px;
-  
+    color: white;
+} 
+label{
+    margin-bottom: 5px;
 }
+
 .filter_field{
     font-size: 18px;
     color: white;
@@ -36,6 +40,18 @@ body{
     background-color: rgb(164 117 33 / 1);
     outline: none;
     text-indent: 20px;
+    width: 100%;    
+} 
+.filter_fields{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.field_container{
+    display: flex;
+    flex-direction: column;
+    width:30%;
+
 }
 .filter_name_field{
     font-size: 18px;
@@ -77,9 +93,6 @@ body{
     color: rgb(164 117 33 / 1);
     background-color: transparent;
 }
-
-
-
 
 .container{
     padding: 50px 10px;

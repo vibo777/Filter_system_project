@@ -30380,7 +30380,9 @@ console.log(JSON.stringify(superheroes));
     let filters = { 
         name:{active:false,value:""},
         gender:{active:false,value:""},
-        publisher:{active:false,value:""},  
+        publisher:{active:false,value:""}, 
+        minWeight:{active:false, value:""},
+        maxWeight:{active:false, value:""} 
       }
 
     selectFilter=(filtername,value)=>{
@@ -30394,7 +30396,7 @@ console.log(JSON.stringify(superheroes));
       filters[filtername].active = false;
       filters[filtername].value = "";
     }
-     
+     console.log(filters);
   }
   
   applyNameFilter = (filtername,value)=>{
@@ -30458,6 +30460,7 @@ console.log(JSON.stringify(superheroes));
 
     }
 
+
    // cancel filters 
    cancelFilter=()=>{
 
@@ -30473,15 +30476,28 @@ console.log(JSON.stringify(superheroes));
     filters.publisher.value =""; 
 
     tempsuperheroes=superheroes;
+
+
     display(tempsuperheroes); 
     document.getElementById('count').innerText=tempsuperheroes.length;
    }
 
+   // weight filter logic 
+   if(filters.minWeight.active===true)
+   {
+     // let i=0;
+     tempsuperheroes=tempsuperhero.filter((superheroes,index)=>{
+       return Number(superhero.appearance.weight[1].split(" ")[0])>=filters.minWeight.value;
+     });
+   }
+   if(filters.maxWeight.active===true)
+     {
+       tempsuperheroes=tempsuperheroes.filter((superheroes,index)=>{
+         return Number(superheroes.appearance.weight[1].split(" ")[0])<=filters.maxWeight.value;
+       });
+   }
 
-
-
-
-
+ 
     display(tempsuperheroes); 
     document.getElementById('count').innerText=tempsuperheroes.length;
 
