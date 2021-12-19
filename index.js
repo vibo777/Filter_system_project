@@ -38,7 +38,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Musician, adventurer, author; formerly talk show host",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
@@ -85,14 +85,14 @@ let superheroes=[
           "Abraham Sapien",
           "Langdon Caul"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Hellboy: Seed of Destruction (1993)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Paranormal Investigator",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Bureau for Paranormal Research and Defense",
@@ -226,7 +226,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -240,7 +240,7 @@ let superheroes=[
         "fullName": "Abraxas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Within Eternity",
         "firstAppearance": "Fantastic Four Annual #2001",
@@ -249,7 +249,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Dimensional destroyer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Cosmic Beings",
@@ -306,7 +306,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Professional criminal; former professional boxer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Masters of Evil, Lethal Legion; formerly Worthy, Frightful Four: former agent of Loki and They Who Wield Power",
@@ -333,9 +333,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -352,7 +352,7 @@ let superheroes=[
           "Takezo Kensei",
           "Richard Sanders"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S02E01 - Four Months Later...",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -362,8 +362,8 @@ let superheroes=[
         "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/7-adam-monroe.jpg",
@@ -460,7 +460,7 @@ let superheroes=[
           "Bob",
           "agent of A.I.M"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Cable & Deadpool #38 (May, 2007)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -494,7 +494,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'3",
           "191 cm"
@@ -503,8 +503,8 @@ let superheroes=[
           "230 lb",
           "104 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Christoph Nord",
@@ -513,13 +513,13 @@ let superheroes=[
           "Maverick"
         ],
         "placeOfBirth": "Unrevealed location in former East Germany",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Mercenary, former government operative, freedom fighter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington",
@@ -546,7 +546,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -562,7 +562,7 @@ let superheroes=[
         "fullName": "Gabriel Lan",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Xandar, a planet in the Tranta system, Andromeda galaxy",
         "firstAppearance": "Fantastic Four #120",
@@ -571,11 +571,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former starship captain, Herald of Galactus",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Former member of Nova Corps, Heralds of Galactus",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/12-air-walker.jpg",
@@ -618,18 +618,18 @@ let superheroes=[
           "the A-Man",
           "the Attending"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Deadpool #14 (March, 1998)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Weapon X",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/13-ajax.jpg",
@@ -652,7 +652,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -678,7 +678,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City and New York City; Formerly Capitol City"
       },
       "connections": {
@@ -708,15 +708,15 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Alexander J. Mercer",
@@ -726,14 +726,14 @@ let superheroes=[
           "Zues",
           "Blacklight"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Wildstorm",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Gentek, The Infected",
@@ -778,7 +778,7 @@ let superheroes=[
         "aliases": [
           "Alfred Beagle"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #16 (April, 1943)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -821,14 +821,14 @@ let superheroes=[
           "375 lb",
           "169 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "No Hair"
       },
       "biography": {
         "fullName": "Xenomorph",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Your chest :)",
         "firstAppearance": "Alien (1979)",
@@ -836,11 +836,11 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Alien Queen (mother)"
       },
       "images": {
@@ -874,7 +874,7 @@ let superheroes=[
           "173 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -885,14 +885,14 @@ let superheroes=[
           "Humazo",
           "Hourmazo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Brave and the Bold #30 (July, 1960)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly the Secret Society of Super Villains",
@@ -921,15 +921,15 @@ let superheroes=[
         "gender": "Male",
         "race": "Vampire",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Liam",
@@ -938,17 +938,17 @@ let superheroes=[
           "Angelus",
           "Twilight"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Kathy (sister), Connor (son), Twilight (\"child\")"
       },
       "images": {
@@ -972,7 +972,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'0",
           "183 cm"
@@ -1001,7 +1001,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, Mutantes Sans Fronti?res, Hellfire Club; formerly Secret Defenders, X-Factor/X-Terminators, Horsemen of Apocalypse, Defenders, Death's champions, Champions of Los Angeles",
@@ -1047,18 +1047,18 @@ let superheroes=[
           "Angel",
           "Dusty"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Morlocks #1",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Chicago, Illinois"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/25-angel-dust.jpg",
@@ -1081,7 +1081,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'4",
           "163 cm"
@@ -1099,14 +1099,14 @@ let superheroes=[
         "aliases": [
           "Tempest"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New X-Men #118 (November, 2001)",
         "publisher": "Tempest",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly New Warriors; Special Class",
@@ -1151,13 +1151,13 @@ let superheroes=[
         "aliases": [
           "The Human Zoo; A-Man; The Man with Animal Powers"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Strange Adventures #180 (September, 1965)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "San Diego, California"
       },
       "connections": {
@@ -1185,7 +1185,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -1211,7 +1211,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Conqueror, scavenger",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Sometime ally of Blastaar",
@@ -1273,7 +1273,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/30-ant-man.jpg",
@@ -1374,7 +1374,7 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Qward, Antimatter Universe"
       },
       "connections": {
@@ -1428,14 +1428,14 @@ let superheroes=[
         "placeOfBirth": "San Francisco, California",
         "firstAppearance": "Amazing Spider-Man #569 (as Anti-Venom)",
         "publisher": "Toxin",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
         "occupation": "Vigilante; former journalist for the Daily Globe",
         "base": "New York, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Toxin Symbiote (current symbiote, former grandson), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
       },
       "images": {
@@ -1516,9 +1516,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -1532,15 +1532,15 @@ let superheroes=[
         "fullName": "Arthur Curry, Jr.",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Aquaman #23 (October, 1965)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Atlantis"
       },
       "connections": {
@@ -1584,7 +1584,7 @@ let superheroes=[
         "fullName": "Garth",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Poseidonis, Atlantis",
         "firstAppearance": "Adventure Comics #269 (February, 1960)",
@@ -1758,7 +1758,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men (founding member); X-Force; Mutantes Sans Fronti?res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou",
@@ -1785,7 +1785,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -1801,7 +1801,7 @@ let superheroes=[
         "fullName": "Philippa Sontag",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Vietnam",
         "firstAppearance": "(In shadow) Uncanny X-Men #210 (1986), (fully) X-Factor #10 (1986)",
@@ -1810,11 +1810,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Terrorist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Marauders formerly, 198, Femizons",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/41-arclight.jpg",
@@ -1853,19 +1853,19 @@ let superheroes=[
         "fullName": "Ardina",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Order #4",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Norrin Radd (Silver Surfer, clonal source), Clea (creator)"
       },
       "images": {
@@ -1889,7 +1889,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -1910,13 +1910,13 @@ let superheroes=[
           "Mars",
           "Warhawk"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Thor #129",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Avengers Tower, formerly Olympus"
       },
       "connections": {
@@ -1944,7 +1944,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -1960,20 +1960,20 @@ let superheroes=[
         "fullName": "Ariel",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fallen Angels #1 (1987)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Leader, refugee alien; former alien mutant-hunter and hedonist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, Formerly Fallen Angels",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/44-ariel.jpg",
@@ -1996,7 +1996,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'4",
           "163 cm"
@@ -2015,18 +2015,18 @@ let superheroes=[
           "X-Girl",
           "Kid"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Astonishing X-Men #4 (2004)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer, student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly: Xavier Institute Student Body, New X-Men",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/45-armor.jpg",
@@ -2079,7 +2079,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi",
@@ -2131,12 +2131,12 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Formely; Hyssa, Metropolis"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/49-atlas.jpg",
@@ -2159,7 +2159,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -2177,18 +2177,18 @@ let superheroes=[
         "aliases": [
           "Shrinking Violet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "United Planets, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/52-atom-girl.jpg",
@@ -2231,7 +2231,7 @@ let superheroes=[
           "the Tiny Titan",
           "the World's Smallest Hero"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Showcase #34",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -2352,7 +2352,7 @@ let superheroes=[
         "base": "Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
       },
       "images": {
@@ -2378,7 +2378,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -2401,7 +2401,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former Police Officer, vigilante",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Order of St. Dumas; formerly Gotham City Police Department; Three Ghosts of Batman",
@@ -2437,22 +2437,22 @@ let superheroes=[
           "400 lb",
           "180 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman: Vengeance of Bane #1 (January, 1993)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Santa Prisca"
       },
       "connections": {
@@ -2532,7 +2532,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -2548,20 +2548,20 @@ let superheroes=[
         "fullName": "Roberto Velasquez",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer, boxing trainer, former boxer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Captain America, Pro-Registration forces",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/62-bantam.jpg",
@@ -2603,17 +2603,17 @@ let superheroes=[
           "Oracle",
           "Bluebelle"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #359",
         "publisher": "Oracle",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City, formerly Metropolis, Platinum Flats"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "James Gordon (father) ? Barbara Eileen (mother) ? James Gordon, Jr. (brother)"
       },
       "images": {
@@ -2662,7 +2662,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City; Bl?dhaven; Tibet; New York City"
       },
       "connections": {
@@ -2690,7 +2690,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -2711,7 +2711,7 @@ let superheroes=[
           "Marion Todd",
           "Spoiler"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
         "publisher": "Spoiler",
         "alignment": "good"
@@ -2773,7 +2773,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "21st Century Gotham City"
       },
       "connections": {
@@ -2872,13 +2872,13 @@ let superheroes=[
         "aliases": [
           "Dick Grayson"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Nightwing",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City; formerly Bludhaven, New York City"
       },
       "connections": {
@@ -2906,7 +2906,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'6",
           "198 cm"
@@ -2931,11 +2931,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former wrestler, federal operative",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/72-battlestar.jpg",
@@ -2974,15 +2974,15 @@ let superheroes=[
         "fullName": "Katherine Rebecca Kane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "52 #7 (June, 2006)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City"
       },
       "connections": {
@@ -3091,7 +3091,7 @@ let superheroes=[
           "Tork",
           "Craig Logan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Doom Patrol #99 (November, 1965)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -3125,17 +3125,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Benjamin Kirby Tennyson",
@@ -3143,18 +3143,18 @@ let superheroes=[
         "aliases": [
           "Ben Ten"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Ben 10 S01E01",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/78-ben-10.jpg",
@@ -3177,7 +3177,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'7",
           "201 cm"
@@ -3186,7 +3186,7 @@ let superheroes=[
           "480 lb",
           "216 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "No Hair"
       },
       "biography": {
@@ -3207,7 +3207,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "ally of the Asgardians, Thor Corps, Star Masters",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/79-beta-ray-bill.jpg",
@@ -3232,15 +3232,15 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -3265,11 +3265,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him.",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/80-beyonder.jpg",
@@ -3311,13 +3311,13 @@ let superheroes=[
           "Barda",
           "the Strongest Woman in the World"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Mister Miracle (Volume 1) #4",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City, New Genesis, formerly Apokolips"
       },
       "connections": {
@@ -3345,35 +3345,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Damon Macready",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Kick-Ass #4",
         "publisher": "Icon Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Hit-Girl (daughter)"
       },
       "images": {
@@ -3397,7 +3397,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -3415,14 +3415,14 @@ let superheroes=[
         "aliases": [
           "Patch"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man # 10 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Reporter, professional criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Daily Bugle, the Enforcers",
@@ -3451,34 +3451,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Alpha",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "SyFy",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alphas",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/84-bill-harken.jpg",
@@ -3503,7 +3503,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Cyborg",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -3519,18 +3519,18 @@ let superheroes=[
         "aliases": [
           "Clarissa Whyte"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/87-bionic-woman.jpg",
@@ -3552,18 +3552,18 @@ let superheroes=[
         "combat": 42
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -3571,18 +3571,18 @@ let superheroes=[
         "aliases": [
           "Bird-Boy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The New Mutants #56 (October, 1987)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "New Mutants, Ani-Mate",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/88-bird-brain.jpg",
@@ -3673,15 +3673,15 @@ let superheroes=[
         "fullName": "Bizarro",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superboy Vol. 1 #68 (1958)",
         "publisher": "DC Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Bizarro World"
       },
       "connections": {
@@ -3709,7 +3709,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'3",
           "191 cm"
@@ -3736,7 +3736,7 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
       },
       "connections": {
@@ -3780,7 +3780,7 @@ let superheroes=[
         "fullName": "Blackagar Boltagon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
@@ -3834,7 +3834,7 @@ let superheroes=[
         "aliases": [
           "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Justice League of America (Volume 1) #75",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -3884,9 +3884,9 @@ let superheroes=[
         "fullName": "Dinah Drake Lance",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash Comics #86 (August, 1947)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -3945,7 +3945,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Cat burglar; Private investigator, founder of Cat's Eye Investigations.",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Heroes for Hire",
@@ -3974,15 +3974,15 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -3995,18 +3995,18 @@ let superheroes=[
           "Death Flash",
           "God of Death"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash Vol 2 #138",
         "publisher": "DC Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/100-black-flash.jpg",
@@ -4056,7 +4056,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, scientist; former crusader",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army",
@@ -4083,7 +4083,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -4099,9 +4099,9 @@ let superheroes=[
         "fullName": "Jefferson Pierce",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Black Lightning #1 (April 1977)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -4135,7 +4135,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'7",
           "170 cm"
@@ -4164,7 +4164,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Serpent Squad, Serpent Society, BAD Girls",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/104-black-mamba.jpg",
@@ -4207,18 +4207,18 @@ let superheroes=[
           "Scourge of the Seven Seas",
           "Yellow Lantern"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Aquaman #35 (August, 1967)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/105-black-manta.jpg",
@@ -4327,7 +4327,7 @@ let superheroes=[
           "Black Pearl",
           "Ebon Flame"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Tales of Suspense #52",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -4377,16 +4377,16 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Assassin, enforcer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Lilin; Deathwatch; Hood's gang",
@@ -4413,7 +4413,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -4440,8 +4440,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Heavy Mettle; (formerly) Masters of Evil, Skeleton Crew, Circus of Crime; (formerly) division leader of Hydra",
@@ -4490,11 +4490,11 @@ let superheroes=[
         "placeOfBirth": "Armechadon",
         "firstAppearance": "Thunderstrike #6 (March, 1994)",
         "publisher": "Marvel Comics",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
         "occupation": "Freedom Fighter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Underground Legion",
@@ -4575,7 +4575,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -4584,26 +4584,26 @@ let superheroes=[
           "152 lb",
           "68 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Roxanne Washington",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men #171 (2005)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Roy \"Daddy Libido\" Washington (father), Angel \"Sexy Mutha\" Depres (mother)"
       },
       "images": {
@@ -4643,7 +4643,7 @@ let superheroes=[
         "fullName": "Clarice Ferguson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Bahamas",
         "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
@@ -4679,7 +4679,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -4695,7 +4695,7 @@ let superheroes=[
         "fullName": "Donald Gill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Newark, Delaware",
         "firstAppearance": "Iron Man #223 (1987)",
@@ -4704,11 +4704,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer; former mercenary and professional criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts, Hammer Industries",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/118-blizzard-ii.jpg",
@@ -4731,7 +4731,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -4747,7 +4747,7 @@ let superheroes=[
         "fullName": "Frederick J. Dukes",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Lubbock, Texas",
         "firstAppearance": "X-Men #3 (1964)",
@@ -4756,11 +4756,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former criminal, terrorist, government agent, carnival performer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/119-blob.jpg",
@@ -4799,20 +4799,20 @@ let superheroes=[
         "fullName": "Jackie Lukus",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Jackie Lukus) Thor #392 (as Bloodaxe) Thor #449",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Architect, former vigilante",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/120-bloodaxe.jpg",
@@ -4837,7 +4837,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -4853,18 +4853,18 @@ let superheroes=[
         "aliases": [
           "Lemuel Halcon"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men (2099) #1",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Peditioners, formerly X-Men, Halo City Protectorate, Oasis",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/121-bloodhawk.jpg",
@@ -4889,7 +4889,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -4962,17 +4962,17 @@ let superheroes=[
           "Mand'alor"
         ],
         "placeOfBirth": "Kamino",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "George Lucas",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Bounty Hunter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/127-boba-fett.jpg",
@@ -5019,18 +5019,18 @@ let superheroes=[
           "Mutate #35",
           "Nancy Forrester"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Secret Wars II #5",
         "publisher": "Meltdown",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Utopians, X-Men (New Charles Xavier School member), X-Force, X-Men, Nextwave, The Underground, Genoshan Mutates, New Mutants, X-Terminators (founding member), X-Factor (trainee), Fallen Angels, Beyonder (associate)",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/130-boom-boom.jpg",
@@ -5052,10 +5052,10 @@ let superheroes=[
         "combat": 56
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -5124,14 +5124,14 @@ let superheroes=[
         "aliases": [
           "Milton Fine"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Action Comics #242 (July 1958)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Lex Luthor",
@@ -5158,7 +5158,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'7",
           "170 cm"
@@ -5174,16 +5174,16 @@ let superheroes=[
         "fullName": "Querl Dox",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Brainiac 5's primary invention is his personal force-shield generator. Brainiac 5 re-discovered the technical process behind original Brainiac's force-shield belt, which is capable of generating a virtually impervious field of protection. The belt must be",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
@@ -5219,8 +5219,8 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Seth Brundle",
@@ -5228,18 +5228,18 @@ let superheroes=[
         "aliases": [
           "The Fly"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Fly (1986)",
         "publisher": "",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
         "occupation": "Scientist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/139-brundlefly.jpg",
@@ -5288,14 +5288,14 @@ let superheroes=[
           "Belinda",
           "Joan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Dark Horse Presents 1998 Annual",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Slayer Army, Scooby Gang, (formerly) The Initiative, Watchers Council",
@@ -5345,7 +5345,7 @@ let superheroes=[
           "Hawkeye",
           "pitcher"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Daredevil #131 (March, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -5395,15 +5395,15 @@ let superheroes=[
         "fullName": "Karen Beecher",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans #45",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "San Francisco, California"
       },
       "connections": {
@@ -5433,34 +5433,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Ryuko Orsono",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Titans: Secret Files & Origins #2",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Teen Titans",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/144-bushido.jpg",
@@ -5542,7 +5542,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -5558,20 +5558,20 @@ let superheroes=[
         "fullName": "Callisto",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-MEN (first series) #169",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
       },
       "connections": {
         "groupAffiliation": "Excalibur, Morlocks, Gene Nation",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/146-callisto.jpg",
@@ -5596,34 +5596,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Alpha",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "SyFy",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alphas",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/147-cameron-hicks.jpg",
@@ -5646,7 +5646,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'0",
           "183 cm"
@@ -5673,7 +5673,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, peacekeeper, former student, mercenary, miner",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club",
@@ -5773,14 +5773,14 @@ let superheroes=[
           "Allen Adam",
           "Cameron Scott"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Captain Atom #1",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Former Soldier",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force",
@@ -5865,7 +5865,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -5886,14 +5886,14 @@ let superheroes=[
           "Leonards Wynters",
           "The Man Who Mastered Absolute Zero"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash Vol 4 #6 (April, 2012)",
         "publisher": "DC Comics",
         "alignment": "neutral"
       },
       "work": {
         "occupation": "Professional Criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Justice League, Rogues; formerly Secret Society of Super-Villains, Injustice League",
@@ -5922,34 +5922,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "Black"
       },
       "biography": {
         "fullName": "Jack Brolin",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "South Park S14 E11 \"Coon 2: Hindsight\"",
         "publisher": "South Park",
         "alignment": "good"
       },
       "work": {
         "occupation": "Former Superhero; News Reporter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/154-captain-hindsight.jpg",
@@ -5999,8 +5999,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Marvel Family, Justice Society of America",
@@ -6102,7 +6102,7 @@ let superheroes=[
           "Captain Marvel Jr.",
           "CM3"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -6138,7 +6138,7 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -6156,18 +6156,18 @@ let superheroes=[
           "CP",
           "Planet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "The Planeteers",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/160-captain-planet.jpg",
@@ -6209,13 +6209,13 @@ let superheroes=[
           "Mass Carnage",
           "999th"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "New York City"
       },
       "connections": {
@@ -6316,20 +6316,20 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Force Works #1 (July, 1994)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Tracker, adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Force Works",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/167-century.jpg",
@@ -6383,7 +6383,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "X-Men; formerly New Warriors; Clan Akkaba; Weapon X; Generation X",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/169-chamber.jpg",
@@ -6406,17 +6406,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Dmitri Anatoly Smerdyakov Kravinoff",
@@ -6439,8 +6439,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "The Exterminators; formerly Sinister Six, Sinister Twelve",
@@ -6467,7 +6467,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -6486,18 +6486,18 @@ let superheroes=[
           "Professor X",
           "Professor Charles Xavier"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Former substitute teacher, adventurer, subversive",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Humed, X-Men, Factor Three",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/171-changeling.jpg",
@@ -6539,14 +6539,14 @@ let superheroes=[
           "Kay Carlton",
           "The Cheetah"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Villainy Inc",
@@ -6595,7 +6595,7 @@ let superheroes=[
           "Deborah Domaine",
           "Sabrina Ballesteros"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Wonder Woman Vol2 #7 (Sept 1987)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -6606,7 +6606,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "The Society, Injustice League",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/174-cheetah-iii.jpg",
@@ -6629,7 +6629,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -6638,8 +6638,8 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Carlos Ray Norris",
@@ -6648,17 +6648,17 @@ let superheroes=[
           "Chuck"
         ],
         "placeOfBirth": "Ryan, Oklahoma, United States",
-        "firstAppearance": "-",
-        "publisher": null,
+        "firstAppearance": "Others",
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/176-chuck-norris.jpg",
@@ -6701,7 +6701,7 @@ let superheroes=[
           "Uncle Nate",
           "Uncle Nathan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -6735,9 +6735,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -6754,7 +6754,7 @@ let superheroes=[
           "Vivian Lewis",
           "Claire Butler"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S01E01",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -6764,7 +6764,7 @@ let superheroes=[
         "base": "formerly Odessa, TX, Costa Verde, CA"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Adoptive parents: Sandra Bennet, Noah Bennet, Biological parents: Meredith Gordon, Nathan Petrelli, Younger adoptive brother: Lyle Bennet,  Younger half brothers: Simon Petrelli, Monty Petrelli"
       },
       "images": {
@@ -6788,7 +6788,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "7'5",
           "226 cm"
@@ -6804,7 +6804,7 @@ let superheroes=[
         "fullName": "Tyrone Johnson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "South Boston, Massachusetts",
         "firstAppearance": "Spectacular Spiderman #64",
@@ -6858,14 +6858,14 @@ let superheroes=[
         "aliases": [
           "Tempus Fugit"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "World's Finest #111 (August, 1960)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Clockwatchers, Justice League Antarctica, Suicide Squad, Time Foes",
@@ -6974,13 +6974,13 @@ let superheroes=[
           "Marguerite",
           "Amy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New Mutants #98 (February, 1991)",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Mobile; formerly Adirondack Mountains, Xavier's School for Gifted Youngsters"
       },
       "connections": {
@@ -7026,7 +7026,7 @@ let superheroes=[
         "aliases": [
           "Quincy McIver"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Captain America #310 (October, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -7037,7 +7037,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Serpent Society",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/188-cottonmouth.jpg",
@@ -7086,7 +7086,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Mother, adventuress",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Inhumans (Royal Family); formerly Fantastic Four, Avengers, Queen's Vengeance",
@@ -7169,7 +7169,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -7187,13 +7187,13 @@ let superheroes=[
           "Herald of the Anti-Monitor",
           "Alpha-Prime of the Alpha Lanterns"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Adventures of Superman #466 (May, 1990)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601"
       },
       "connections": {
@@ -7281,9 +7281,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 kg"
         ],
         "weight": [
@@ -7333,35 +7333,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Daphne Powell",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "No Ordinary Family S01E01 (2010)",
         "publisher": "ABC Studios",
         "alignment": "good"
       },
       "work": {
         "occupation": "Student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Jim Powell and Stephanie Powell (parents), JJ Powell (brother)"
       },
       "images": {
@@ -7505,35 +7505,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Peyton Westlake",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Darkman (August 24, 1990)",
         "publisher": "Universal Studios",
         "alignment": "good"
       },
       "work": {
         "occupation": "Scientist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Julie Hastings (girlfriend)"
       },
       "images": {
@@ -7575,14 +7575,14 @@ let superheroes=[
         "aliases": [
           "Dark God"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Dictator of Apokolips",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "New Gods of Apokolips(ruler), Secret Society of Supervillains",
@@ -7671,7 +7671,7 @@ let superheroes=[
           "0 kg"
         ],
         "eyeColor": "Yellow / Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -7686,11 +7686,11 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Darth Sidious (Master)"
       },
       "images": {
@@ -7785,14 +7785,14 @@ let superheroes=[
           "The Fastest Kid on Earth",
           "The Dash"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (genetic member), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend), Mirage (ally)",
@@ -7821,7 +7821,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Android",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -7837,17 +7837,17 @@ let superheroes=[
         "aliases": [
           "B-4"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Star Trek",
         "alignment": "good"
       },
       "work": {
         "occupation": "Lieutenant commander",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Dr. Noonian Soong (creator)"
       },
       "images": {
@@ -7901,7 +7901,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, singer, former actress, model, revolutionary",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Excalibur, X-Babies (guardian), Mojoverse Rebellion, X-Men, Cat's Laughing, Gladiators",
@@ -7944,9 +7944,9 @@ let superheroes=[
         "fullName": "Boston Brand",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Strange Adventures #205 (October, 1967)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -8060,18 +8060,18 @@ let superheroes=[
           "Worlds Finest Assassin",
           "Orlando Furioso"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #59 (June, 1950)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/214-deadshot.jpg",
@@ -8112,13 +8112,13 @@ let superheroes=[
         "aliases": [
           "Demolisher"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Astonishing Tales #25 (August, 1974)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "New York area"
       },
       "connections": {
@@ -8166,7 +8166,7 @@ let superheroes=[
           "Deathstroke the Terminator",
           "Batman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New Teen Titans #2 (December, 1980)",
         "publisher": "DC Comics",
         "alignment": "neutral"
@@ -8218,7 +8218,7 @@ let superheroes=[
         "aliases": [
           "Jason Macendale Jr"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -8228,8 +8228,8 @@ let superheroes=[
         "base": "New York City"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/217-demogoblin.jpg",
@@ -8252,7 +8252,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -8261,14 +8261,14 @@ let superheroes=[
           "850 lb",
           "383 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Created in Asgard",
         "firstAppearance": "Journey into Mystery #118 (1965)",
@@ -8276,12 +8276,12 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/218-destroyer.jpg",
@@ -8320,20 +8320,20 @@ let superheroes=[
         "fullName": "Willis Stryker",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Syndicate, formerly Bloods",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/219-diamondback.jpg",
@@ -8356,25 +8356,25 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Daniel Lawrence Hawkins",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S01E05 - Hiros",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -8384,7 +8384,7 @@ let superheroes=[
         "base": "Las Vegas, NV"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Niki Sanders (wife), Micah Sanders (son), Paulette Hawkins (mother), Monica Dawson (cousin), Damon Dawson (cousin)"
       },
       "images": {
@@ -8424,7 +8424,7 @@ let superheroes=[
         "fullName": "Leonard Samson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Tulsa, Oklahoma",
         "firstAppearance": "Incredible Hulk #141 (July, 1971)",
@@ -8436,7 +8436,7 @@ let superheroes=[
         "base": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Leonard Skivorski (father); Ricky Myers (son);"
       },
       "images": {
@@ -8531,13 +8531,13 @@ let superheroes=[
         "aliases": [
           "Nabu"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "More Fun Comics #55 (May, 1940)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Tower of Fate, Salem, Massachusetts"
       },
       "connections": {
@@ -8601,7 +8601,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Thunderbolts Army; Former leader of the Sinister Six and the Masters of Evil V; Former partner of Green Goblin",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/225-doctor-octopus.jpg",
@@ -8653,7 +8653,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Sorcerer Supreme, retired neurosurgeon",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
@@ -8713,8 +8713,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men; formerly X-Force; 198; X-Corporation; The Underground; X-Force; Six Pack",
@@ -8743,7 +8743,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -8760,17 +8760,17 @@ let superheroes=[
           "Don",
           "Donnie"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Leonardo (brother), Michelangelo (brother), Raphael (brother)"
       },
       "images": {
@@ -8819,11 +8819,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Destroyer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/230-doomsday.jpg",
@@ -8846,7 +8846,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'5",
           "196 cm"
@@ -8872,8 +8872,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Carnage Family; Magus' doppelgangers; operative of Demogoblin",
@@ -8900,7 +8900,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -8930,7 +8930,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Despot, conqueror",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Lords of the Splinter Realms, Lords of the Netherworlds; allied with Umar, Loki, Doctor Doom, Underchild, others",
@@ -8959,7 +8959,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human / Cosmic",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -8976,7 +8976,7 @@ let superheroes=[
           "Jon Osterman",
           "Doctor Manhattan"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -8987,7 +8987,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Watchmen, Crimebusters",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/233-dr-manhattan.jpg",
@@ -9026,7 +9026,7 @@ let superheroes=[
         "fullName": "Arthur Sampson Douglas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Burbank, California",
         "firstAppearance": "Iron Man #55 (February, 1973)",
@@ -9034,7 +9034,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "C.I.T.T.; formerly Monster Isle and Titan"
       },
       "connections": {
@@ -9061,18 +9061,18 @@ let superheroes=[
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Ego",
@@ -9090,7 +9090,7 @@ let superheroes=[
         "base": "Mobile"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Inapplicable"
       },
       "images": {
@@ -9132,14 +9132,14 @@ let superheroes=[
         "aliases": [
           "Mrs Incredible"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (co-leader), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend), Mirage (ally), Snug Porter (receives aircraft from him)",
@@ -9182,16 +9182,16 @@ let superheroes=[
         "fullName": "Maxwell Dillon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #9 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Professional criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Sinister Six formerly Emissaries of Evil, Frightful Four and Sinister Twelve",
@@ -9236,14 +9236,14 @@ let superheroes=[
         "aliases": [
           "Erynys (evil self)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Daredevil #168",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Assassin, adventurer, mercenary, former student, dancer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "S.H.I.E.L.D.; formerly Thunderbolts, Hand, Chaste, Heroes For Hire, Code Red, partner of Daredevil and Deadpool",
@@ -9270,9 +9270,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -9288,17 +9288,17 @@ let superheroes=[
         "aliases": [
           "Cindy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S02E05 - Fight or Flight",
         "publisher": "NBC - Heroes",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Agent of the Company",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Bob Bishop (Father)"
       },
       "images": {
@@ -9322,7 +9322,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -9340,7 +9340,7 @@ let superheroes=[
         "aliases": [
           "Alvin Burgson; Molder"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash #112 (1960)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -9374,7 +9374,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10'",
           "178 cm"
@@ -9399,7 +9399,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "(current) Emma Frost operates from the Massachusetts Academy, Snow Valley, Massachusetts, (former) Hellfire Club mansion in New York City, a home in the Berkshire Mountains in Massachusetts (near the Massachusetts Academy), and places of residence in vari"
       },
       "connections": {
@@ -9446,18 +9446,18 @@ let superheroes=[
           "Anita Soulfeeda",
           "Soulsinger"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Strange Adventures #187",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Artist; Magician",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Forgotten Villains, Sentinels of Magic, Shadowpact, Suicide Squad",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/242-enchantress.jpg",
@@ -9496,16 +9496,16 @@ let superheroes=[
         "fullName": "Ethan Hunt",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Madison, Wisconsin, United States of America",
-        "firstAppearance": "-",
-        "publisher": null,
+        "firstAppearance": "Others",
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
         "occupation": "IMF Agent, Training Officer (former), Field Agent, Field Team Leader",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly: United States Army",
@@ -9556,7 +9556,7 @@ let superheroes=[
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Hell"
       },
       "connections": {
@@ -9602,18 +9602,18 @@ let superheroes=[
         "aliases": [
           "Dreadpool"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Deadpool Vol 2 #44 (December, 2011)",
         "publisher": "Deadpool",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Mercenary, Assasin",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Evil Deadpool Corps",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/247-evil-deadpool.jpg",
@@ -9652,9 +9652,9 @@ let superheroes=[
         "fullName": "Dargin Bokk",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Darkhawk #20 (October, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -9664,8 +9664,8 @@ let superheroes=[
         "base": "(Formerly) planet Luq"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/248-evilhawk.jpg",
@@ -9706,7 +9706,7 @@ let superheroes=[
         "aliases": [
           "Paris Bennet"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Factor #92 (July, 1993)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -9717,7 +9717,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Acolytes, formerly Brotherhood and Marauders",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/249-exodus.jpg",
@@ -9796,9 +9796,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -9812,20 +9812,20 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Heralds of Galactus",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/252-fallen-one-ii.jpg",
@@ -9850,15 +9850,15 @@ let superheroes=[
         "gender": "Female",
         "race": "Kryptonian",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Faora Hu-Ul",
@@ -9866,7 +9866,7 @@ let superheroes=[
         "aliases": [
           "Katie"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Action Comics #471 (May, 1977)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -9899,8 +9899,8 @@ let superheroes=[
         "combat": 70
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -9916,7 +9916,7 @@ let superheroes=[
         "fullName": "Maria Callasantos",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "NEW MUTANTS #99",
@@ -9970,13 +9970,13 @@ let superheroes=[
         "aliases": [
           "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "New York, formerly Valley of the Sleeping Dragon in China"
       },
       "connections": {
@@ -10004,7 +10004,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5'",
           "165 cm"
@@ -10035,7 +10035,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Catholic Church; formerly the Rangers, provisional member of the Avengers West Coast, Queen's Vengeance",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/257-firebird.jpg",
@@ -10057,8 +10057,8 @@ let superheroes=[
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'4'",
           "193 cm"
@@ -10087,7 +10087,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly Nova Corps, Guardians of the Galaxy (in an alternate future)",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/258-firelord.jpg",
@@ -10164,9 +10164,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -10182,7 +10182,7 @@ let superheroes=[
         "aliases": [
           "The Nuclear Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Firestorm (Volume 3) #1",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -10237,7 +10237,7 @@ let superheroes=[
           "Ronald Rockwell",
           "Flamehead"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Firestorm #1 (March, 1978)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -10388,8 +10388,8 @@ let superheroes=[
           "190 lb",
           "86 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Wally West",
@@ -10452,7 +10452,7 @@ let superheroes=[
           "Impulse",
           "Kid Flash II"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
         "publisher": "Impulse",
         "alignment": "good"
@@ -10485,8 +10485,8 @@ let superheroes=[
         "combat": 48
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'",
           "183 cm"
@@ -10516,7 +10516,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "X-Factor",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/268-forge.jpg",
@@ -10594,8 +10594,8 @@ let superheroes=[
         "combat": 10
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'2'",
           "188 cm"
@@ -10623,7 +10623,7 @@ let superheroes=[
         "base": "Inapplicable"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Mary Storm (wife, deceased), Susan Storm Richards (Invisible Woman, daughter), Jonathan Storm (Human Torch, son), Franklin Richards (grandson), Reed Richards (Mister Fantastic, son-in-law)"
       },
       "images": {
@@ -10647,7 +10647,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'11",
           "211 cm"
@@ -10663,9 +10663,9 @@ let superheroes=[
         "fullName": "Joanna Cargill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Factor Vol 1 #4",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -10676,7 +10676,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Acolytes, formerly Alliance of Evil; temporarily X-Men while controlled by Jean Grey, Femizons",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/271-frenzy.jpg",
@@ -10726,7 +10726,7 @@ let superheroes=[
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, Nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
+        "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
         "base": "Worldship (aka Taa II); though he is generally mobile throughout the universe via his spherical starship in search of suitable planets to consume."
       },
       "connections": {
@@ -10864,34 +10864,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Alpha",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Gary Bell",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "SyFy",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alphas",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/277-gary-bell.jpg",
@@ -10916,7 +10916,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Kryptonian",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -10938,7 +10938,7 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Formerly Krypton; formerly the Phantom Zone; currently Earth"
       },
       "connections": {
@@ -10982,7 +10982,7 @@ let superheroes=[
         "fullName": "Johnny Blaze",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Waukegan, Illinois",
         "firstAppearance": "Marvel Spotlight #5 (August, 1972)",
@@ -11018,7 +11018,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "205",
           "62.5 meters"
@@ -11034,9 +11034,9 @@ let superheroes=[
         "fullName": "Doris Zuel",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -11047,7 +11047,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "The Injustice League, formerly The Society, Villainy, Inc., The Legion of Doom",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/284-giganta.jpg",
@@ -11090,7 +11090,7 @@ let superheroes=[
           "Praetor",
           "Captain Universe"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men Vol 1 #107 October, 1977",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
@@ -11124,7 +11124,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -11152,7 +11152,7 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Mobile; formerly Anchorage, Alaska; Reaver Base, Australian Outback, Australia; Empire State Building, New York, New York"
       },
       "connections": {
@@ -11179,7 +11179,7 @@ let superheroes=[
         "combat": 20
       },
       "appearance": {
-        "gender": "-",
+        "gender": "Others",
         "race": "Kaiju",
         "height": [
           "354'4",
@@ -11189,8 +11189,8 @@ let superheroes=[
           "200000000 lb",
           "90,000 tons"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Gojira",
@@ -11203,18 +11203,18 @@ let superheroes=[
           "God of Destruction",
           "Alpha Predator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Godzilla (1954)",
         "publisher": "",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/287-godzilla.jpg",
@@ -11237,17 +11237,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -11256,14 +11256,14 @@ let superheroes=[
           "Nephut-Sha",
           "Hassan Kareem"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Incredible Hulk #257 (1981)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Sinister Six",
@@ -11299,8 +11299,8 @@ let superheroes=[
           "137 lb",
           "62 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Kakarot",
@@ -11314,18 +11314,18 @@ let superheroes=[
           "Lower-Class Sayain",
           "Goku Son"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Dragon Ball #1",
         "publisher": "Shueisha",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Saiyajin, Son family, Z-Fighters",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/289-goku.jpg",
@@ -11369,17 +11369,17 @@ let superheroes=[
           "Gorilla Grodd",
           "Grodd-Son"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash #106 (May, 1959)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gorilla City, Africa"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
       },
       "images": {
@@ -11465,26 +11465,26 @@ let superheroes=[
           "0 kg"
         ],
         "eyeColor": "Purple",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Greedo",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Rodia",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "George Lucas",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Bounty Hunter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/297-greedo.jpg",
@@ -11526,7 +11526,7 @@ let superheroes=[
           "The Emerald Archer",
           "Battling Bowman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "More Fun Comics #73 (November 1941)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -11621,7 +11621,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -11637,7 +11637,7 @@ let superheroes=[
         "fullName": "Harold Osborn",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "New York City",
         "firstAppearance": "Amzing Spide-Man #31",
@@ -11645,11 +11645,11 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Formerly New York City"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Liz Allen-Osborn (Wife,) Norman III (son,)Norman Osborn II - Green Goblin (father)"
       },
       "images": {
@@ -11683,7 +11683,7 @@ let superheroes=[
           "4 tons"
         ],
         "eyeColor": "Yellow",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Groot",
@@ -11695,18 +11695,18 @@ let superheroes=[
           "ruler of all the shades",
           "Flora colossus Information-silk"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Tales to Astonish #13 (November, 1960)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Area 13 (the Howling Commandos' base)"
       },
       "connections": {
         "groupAffiliation": "Guardians of the Galaxy, Unnamed Kree covert ops team, formerly Galactic Council, Howling Commandos",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/303-groot.jpg",
@@ -11760,7 +11760,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps, Formerly Justice League of America",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/305-guy-gardner.jpg",
@@ -11810,7 +11810,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, Air Force Test Pilot",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps, Justice League of America, Justice League Europe, frequently teamed with the second Flash and the original Green Arrow",
@@ -11853,7 +11853,7 @@ let superheroes=[
         "fullName": "Han Solo",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Corellia",
         "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
@@ -11861,12 +11861,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/307-han-solo.jpg",
@@ -11905,20 +11905,20 @@ let superheroes=[
         "fullName": "John Hancock",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Sony Pictures",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/308-hancock.jpg",
@@ -11964,7 +11964,7 @@ let superheroes=[
           "Elise Archer",
           "Pumpkin Pooh"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman: Harley Quinn (October, 1999)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -12000,7 +12000,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -12020,18 +12020,18 @@ let superheroes=[
           "Leader of Dumbledore's Army",
           "Master of Death"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Harry Potter and the Philosopher's Stone",
         "publisher": "J. K. Rowling",
         "alignment": "good"
       },
       "work": {
         "occupation": "Head of the Department of Magical Law Enforcement[",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/310-harry-potter.jpg",
@@ -12107,7 +12107,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -12126,14 +12126,14 @@ let superheroes=[
           "Monarch",
           "Extant"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Showcase #75 (June, 1968)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Black Lantern Corps, Teen Titans, Hawk and Dove, Titans West",
@@ -12190,7 +12190,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Avengers, Thunderbolts, Avengers West Coast, Great Lakes Avengers, Shadows, Chain Gang, former partner of the Black Widow",
@@ -12269,7 +12269,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -12288,7 +12288,7 @@ let superheroes=[
           "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
           "Kate Manser; Shiera Sanders"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "JSA Secret Files #1 (August 1999)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -12340,7 +12340,7 @@ let superheroes=[
         "aliases": [
           "Rory Calhoun"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash #140 (November, 1963)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -12351,7 +12351,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/320-heat-wave.jpg",
@@ -12392,17 +12392,17 @@ let superheroes=[
         "aliases": [
           "Goddess of Death"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Journey into Mystery #102",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Loki (father), Thor (Uncle)"
       },
       "images": {
@@ -12445,14 +12445,14 @@ let superheroes=[
           "World Destroyer",
           "The Great Beast"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Dime Press #4 (May 1, 1993)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Abe Sapien, Liz Sherman, Roger the Homunculus, Savage Dragon, the Goon, Batman, Starman, Ghost, Painkiller Jane, Lobster Johnson, Torch of Liberty",
@@ -12562,7 +12562,7 @@ let superheroes=[
           "Agent 74"
         ],
         "placeOfBirth": "Thebes, Greece",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
@@ -12572,7 +12572,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/325-hercules.jpg",
@@ -12597,15 +12597,15 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Mindy McCready",
@@ -12614,18 +12614,18 @@ let superheroes=[
           "Hit Girl",
           "Hitgirl"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Icon Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/327-hit-girl.jpg",
@@ -12648,7 +12648,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -12671,14 +12671,14 @@ let superheroes=[
           "Little Girl",
           "Little Momma"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men Vol 2 #205 (2008)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly Cable",
@@ -12817,7 +12817,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -12837,7 +12837,7 @@ let superheroes=[
           "Sicilian",
           "Mafia Princess"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Huntress #1 (April 1989)",
         "publisher": "Batgirl III",
         "alignment": "good"
@@ -12951,7 +12951,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Bedford-Stuyvesant, Brooklyn, New York City, New York"
       },
       "connections": {
@@ -12979,7 +12979,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -13004,11 +13004,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Professional Criminal; former crewman of cargo ship",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Member of the Masters of Evil; formerly Sinister Syndicate; Frightful Four, Sinister Six, Sinister Twelve",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/337-hydro-man.jpg",
@@ -13052,14 +13052,14 @@ let superheroes=[
           "Mr. Kant",
           "Marcus Milton"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Avengers #85",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer; (Formerly) Cartoonist, government agent",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Squadron Supreme, (Formerly) Star Masters, ally of Exiles",
@@ -13116,7 +13116,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, formerly teacher, accountant, student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men (Jean Grey School member, founding member); formerly Murder Circus (brainwashed), Excelsiors (squad leader), The Twelve, X-Factor/X-Terminators (founding member), Chosen (Dualers), Secret Defenders, Defenders, Champions (founder and founding member)",
@@ -13162,7 +13162,7 @@ let superheroes=[
           "Flash IV",
           "Kid Flash II"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
         "publisher": "Flash IV",
         "alignment": "good"
@@ -13205,8 +13205,8 @@ let superheroes=[
           "176 lb",
           "79 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Indiana Jones",
@@ -13221,11 +13221,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Archaeologist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/341-indiana-jones.jpg",
@@ -13250,14 +13250,14 @@ let superheroes=[
         "gender": "Female",
         "race": "Alien",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "Purple"
       },
       "biography": {
@@ -13266,18 +13266,18 @@ let superheroes=[
         "aliases": [
           "Indigo-1"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
         "publisher": "DC Comics",
         "alignment": "neutral"
       },
       "work": {
         "occupation": "Leader of the Indigo Tribe",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/342-indigo.jpg",
@@ -13316,20 +13316,20 @@ let superheroes=[
         "fullName": "Eric Gitter",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Young X-Men #1 (May, 2008)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Men, Young X-Men",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/343-ink.jpg",
@@ -13426,7 +13426,7 @@ let superheroes=[
           "Young Dragon",
           "Danny Rand"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Marvel Premiere #15 (May 1974)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -13517,9 +13517,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -13533,16 +13533,16 @@ let superheroes=[
         "fullName": "Obadiah Stane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "CEO Stane International",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Stane International",
@@ -13569,25 +13569,25 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Adrianna Tomaz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -13637,7 +13637,7 @@ let superheroes=[
         "fullName": "Jonathan Hart",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "New Haven, Connecticut",
         "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
@@ -13689,16 +13689,16 @@ let superheroes=[
         "fullName": "Jack-Jack Parr",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Incredibles (Movie, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Incredible Family (genetic member), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend)",
@@ -13744,7 +13744,7 @@ let superheroes=[
           "007",
           "Commander Bond"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Casino Royale, 1953 novel",
         "publisher": "Titan Books",
         "alignment": "good"
@@ -13804,7 +13804,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Captain",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Federation, Starfleet",
@@ -13841,26 +13841,26 @@ let superheroes=[
           "0 kg"
         ],
         "eyeColor": "Yellow",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Jar Jar Binks",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Naboo",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "George Lucas",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/354-jar-jar-binks.jpg",
@@ -13885,34 +13885,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Jason Bourne",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
-        "publisher": null,
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/355-jason-bourne.jpg",
@@ -13954,7 +13954,7 @@ let superheroes=[
           "Redd Dayspring",
           "Marvel Girl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Phoenix",
         "alignment": "good"
@@ -13990,15 +13990,15 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Jean-Luc Picard",
@@ -14013,10 +14013,10 @@ let superheroes=[
       },
       "work": {
         "occupation": "Commanding officer USS Enterprise (NCC-1701-E)",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Maurice Picard (father), Yvette Picard (mother), Robert Picard (brother), Shinzon (clone)"
       },
       "images": {
@@ -14040,7 +14040,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -14065,7 +14065,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Sorceress, student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Witches, Legion of the Night",
@@ -14094,7 +14094,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -14111,17 +14111,17 @@ let superheroes=[
           "Green Lantern",
           "Power Ring"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Sara Cruz (sister)"
       },
       "images": {
@@ -14173,7 +14173,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Special Consultant to \"The Pulse\", a Daily Bugle supplement; formerly private investigator, adventurer, short-time vigilante",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly New Avengers, Daily Bugle, Alias Investigations",
@@ -14200,35 +14200,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Jim Powell",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "No Ordinary Family S01E01 (2010)",
         "publisher": "ABC Studios",
         "alignment": "good"
       },
       "work": {
         "occupation": "Police Sketch Artist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Stephanie Powell (wife), Daphne Powell (duaghter) and JJ Powell (son)"
       },
       "images": {
@@ -14252,35 +14252,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "JJ Powell",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "No Ordinary Family S01E01 (2010)",
         "publisher": "ABC Studios",
         "alignment": "good"
       },
       "work": {
         "occupation": "Student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Jim Powell and Stephanie Powell (parents), Daphne Powell (sister)"
       },
       "images": {
@@ -14322,14 +14322,14 @@ let superheroes=[
         "aliases": [
           "Hellblazer"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Justice League Dark, Justice League",
@@ -14356,7 +14356,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'0",
           "183 cm"
@@ -14378,18 +14378,18 @@ let superheroes=[
           "Guardian",
           "Vindicator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Weapon X Program, Team X, C.I.A.",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
@@ -14435,13 +14435,13 @@ let superheroes=[
           "Joe Kerr",
           "Mr. J"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #1 (Spring 1940)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
       },
       "connections": {
@@ -14469,7 +14469,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -14495,7 +14495,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Young Allies; formerly Redeemers, Thunderbolts",
@@ -14583,8 +14583,8 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Joseph Dredd",
@@ -14603,7 +14603,7 @@ let superheroes=[
         "base": "Mega City One"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Rico Dredd (brother), Judge Kraken (clone), Vienna (niece),"
       },
       "images": {
@@ -14653,7 +14653,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Worthy, Thunderbolts, X-Men, Excalibur, Black Tom Cassidy (partner), Exemplars, Brotherhood of Evil Mutants, New World Order, Exiles, U.S. Army",
@@ -14682,34 +14682,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men 2099 #1 (October, 1993)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Former member of X-Men, former member of S.H.I.E.L.D.",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/375-junkpile.jpg",
@@ -14754,7 +14754,7 @@ let superheroes=[
           "Superhuman Penitentiary Prisoner 344678",
           "\"Super Tights\""
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -14788,7 +14788,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'3",
           "191 cm"
@@ -14819,8 +14819,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly the Council of Kangs, Cross-Time Kangs",
@@ -14849,33 +14849,33 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Kathryn Janeway",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Bloomington, Indiana, Earth",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Star Trek",
         "alignment": "good"
       },
       "work": {
         "occupation": "Fleet Commander",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Edward Janeway (father), Gretchen Janeway (mother)"
       },
       "images": {
@@ -14901,34 +14901,34 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Katniss Everdeen",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/381-katniss-everdeen.jpg",
@@ -14953,14 +14953,14 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "Black"
       },
       "biography": {
@@ -14978,17 +14978,17 @@ let superheroes=[
           "An Empty Shell",
           "Kevin E. Levin"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Ben 10 S01",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Mrs. Levin (mother), Devlin Levin (alternate future son), Ben Tennyson (Ben 10, best friend), Harvey Hackett (Stepfather), Gwen Tennyson(girlfriend)"
       },
       "images": {
@@ -15014,7 +15014,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -15037,10 +15037,10 @@ let superheroes=[
       },
       "work": {
         "occupation": "Student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Mother (unnamed, deceased), Father (unnamed)"
       },
       "images": {
@@ -15066,7 +15066,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -15088,8 +15088,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Flash Family, Teen Titans, New Teen Titans",
@@ -15132,20 +15132,20 @@ let superheroes=[
         "fullName": "Waylon Jones",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #357 (March, 1983)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City"
       },
       "connections": {
         "groupAffiliation": "Secret Society of Super-Villains",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/386-killer-croc.jpg",
@@ -15170,7 +15170,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -15184,9 +15184,9 @@ let superheroes=[
         "fullName": "Caitlin Snow",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fury of Firestorm: The Nuclear Men #19",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -15196,8 +15196,8 @@ let superheroes=[
         "base": "Pittsburgh"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/387-killer-frost.jpg",
@@ -15249,12 +15249,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Oa, formerly Earth, Bolovax Vik"
       },
       "connections": {
         "groupAffiliation": "Green Lantern Corps; formerly New Guardians, Justice League International",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/388-kilowog.jpg",
@@ -15302,12 +15302,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Skull Island"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/389-king-kong.jpg",
@@ -15332,7 +15332,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Animal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -15346,9 +15346,9 @@ let superheroes=[
         "fullName": "Nanaue",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superboy Vol 4 #0",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -15358,8 +15358,8 @@ let superheroes=[
         "base": "Honolulu, Hawaii"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/390-king-shark.jpg",
@@ -15452,7 +15452,7 @@ let superheroes=[
         "fullName": "Ulysses Klaw",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Vlaardingen, Netherlands",
         "firstAppearance": "Fantastic Four #53 (August, 1966)",
@@ -15461,11 +15461,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Criminal, former Scientist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Former member of the Masters of Evil, Fearsome Foursome, and Frightful Four; Former ally of Solarr, Molecule Man, and Doctor Doom",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/392-klaw.jpg",
@@ -15488,9 +15488,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -15506,18 +15506,18 @@ let superheroes=[
         "aliases": [
           "Pitcher Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "As Pitcher-Man in 1954",
-        "publisher": null,
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/393-kool-aid-man.jpg",
@@ -15556,16 +15556,16 @@ let superheroes=[
         "fullName": "Alyosha Kravinoff",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Spectacular Spider-Man #243 (1997)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly the Sinister Six",
@@ -15619,7 +15619,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Professional game hunter, mercenary",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "(formerly) The Sinister Six",
@@ -15662,20 +15662,20 @@ let superheroes=[
         "fullName": "Krypto the Superdog",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Adventure Comics #210 (March, 1955)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Smallville, Kansas"
       },
       "connections": {
         "groupAffiliation": "Superman",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/396-krypto.jpg",
@@ -15757,33 +15757,33 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Ben Solo",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
         "publisher": "George Lucas",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Han Solo (Father), Princess Leia (Mother), Luke Skywalker (Uncle)"
       },
       "images": {
@@ -15831,8 +15831,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Ally of Reverend William Stryker, former employee of Sabretooth, formerly Reavers",
@@ -15859,7 +15859,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -15875,20 +15875,20 @@ let superheroes=[
         "fullName": "Samuel Sterns",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Boise, Idaho",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Leader of Freehold",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/401-leader.jpg",
@@ -15911,32 +15911,32 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Uncanny X-Men #179",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Survivor, former student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "198; formerly Generation X, Daydreamers, Morlocks, X-Factor (trainee)",
@@ -16029,7 +16029,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -16047,7 +16047,7 @@ let superheroes=[
           "Ghost of the Jungle",
           "Splinter Jr."
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "good"
@@ -16057,7 +16057,7 @@ let superheroes=[
         "base": "New York, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Donatello (brother), Michelangelo (brother), Raphael (brother)"
       },
       "images": {
@@ -16097,16 +16097,16 @@ let superheroes=[
         "fullName": "Lex Luthor",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Action Comics #23",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Owner of LexCorp",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Injustice Gang, Injustice League, Society of Supervillains",
@@ -16133,7 +16133,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -16149,15 +16149,15 @@ let superheroes=[
         "fullName": "Ayla Ranzz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "United Planets"
       },
       "connections": {
@@ -16185,7 +16185,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'1",
           "155 cm"
@@ -16204,7 +16204,7 @@ let superheroes=[
           "Lightning Boy",
           "Live Wire"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -16215,7 +16215,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/407-lightning-lad.jpg",
@@ -16238,7 +16238,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'3",
           "191 cm"
@@ -16254,20 +16254,20 @@ let superheroes=[
         "fullName": "Mekt Ranzz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "The Wanderers, former ally of the Legion of Super-Heroes.",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/408-lightning-lord.jpg",
@@ -16289,8 +16289,8 @@ let superheroes=[
         "combat": 28
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'6",
           "198 cm"
@@ -16300,26 +16300,26 @@ let superheroes=[
           "360 kg"
         ],
         "eyeColor": "Yellow",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #8 (1964)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Robot",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/409-living-brain.jpg",
@@ -16341,10 +16341,10 @@ let superheroes=[
         "combat": 30
       },
       "appearance": {
-        "gender": "-",
+        "gender": "Others",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -16363,17 +16363,17 @@ let superheroes=[
           "High Judge of The Multiverse",
           "Sir"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Strange Tales #157",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "One-Above-All (creator)"
       },
       "images": {
@@ -16413,7 +16413,7 @@ let superheroes=[
         "fullName": "Curtis Connors",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Coral Gables, Florida",
         "firstAppearance": "Amazing Spider-Man #6",
@@ -16425,7 +16425,7 @@ let superheroes=[
         "base": "Florida"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Martha (wife, deceased), Billy (son), unnamed sister"
       },
       "images": {
@@ -16471,7 +16471,7 @@ let superheroes=[
           "Mister Machete",
           "Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Omega Men # 3",
         "publisher": "DC Comics",
         "alignment": "neutral"
@@ -16584,7 +16584,7 @@ let superheroes=[
           "The Lost Messiah",
           "The Lucky One"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Longshot #1 (September, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -16647,7 +16647,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Underground Avengers (formerly Daredevil's Unnamed Super-Hero Team), Secret Defenders, Heroes for Hire, Nightwing Restorations, Fantastic Four, Defenders, Bloods",
@@ -16700,8 +16700,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alliance to Restore the Republic, Jedi Order, Alliance of Free Planets, Bright Tree Village, New Republic, New Jedi Order",
@@ -16730,33 +16730,33 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Luna Maximoff",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Attilan, Blue Area of the Moon",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Quicksilver (Pietro Maximoff, father), Magneto (grandfather), Crystal (mother), Scarlet Witch, (aunt), Polaris (aunt)"
       },
       "images": {
@@ -16780,7 +16780,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -16809,11 +16809,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "formerly Thunderbolts, Masters of Evil, Sinister Syndicate, Justin Hammer's Hit Squad, Maggia, Sinister Seven, Commission on Superhuman Activities, Defenders impersonators, Burton Canyon Police Department",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/421-mach-iv.jpg",
@@ -16835,8 +16835,8 @@ let superheroes=[
         "combat": 64
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'",
           "183 cm"
@@ -16945,9 +16945,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -16961,16 +16961,16 @@ let superheroes=[
         "fullName": "David Reid",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "formerly Justice Society of America, formerally United States Marine Corps",
@@ -16997,7 +16997,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'0",
           "183 cm"
@@ -17007,7 +17007,7 @@ let superheroes=[
           "0 kg"
         ],
         "eyeColor": "Black",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -17022,10 +17022,10 @@ let superheroes=[
       },
       "work": {
         "occupation": "Ruler of the Technarchy",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Warlock (son, deceased)"
       },
       "images": {
@@ -17048,10 +17048,10 @@ let superheroes=[
         "combat": 100
       },
       "appearance": {
-        "gender": "-",
+        "gender": "Others",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -17067,18 +17067,18 @@ let superheroes=[
         "aliases": [
           "Mother Of Existence"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Spawn #75",
         "publisher": "Image Comics",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/426-man-of-miracles.jpg",
@@ -17103,7 +17103,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -17153,7 +17153,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "7'0",
           "213 cm"
@@ -17171,13 +17171,13 @@ let superheroes=[
         "aliases": [
           "the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Savage Tales #1 (May, 1971)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Man-Thing's Swamp, Citrusville, Florida"
       },
       "connections": {
@@ -17205,7 +17205,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2'",
           "188 cm"
@@ -17347,7 +17347,7 @@ let superheroes=[
         "base": "Mobile"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Libra (Gustav Brandt) (father), Lau Brandt (mother), Cotati possessing Jacques Duquesne (husband), Quoi (son)"
       },
       "images": {
@@ -17391,14 +17391,14 @@ let superheroes=[
           "Bloodwynd",
           "many others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #225 (1955)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
@@ -17425,7 +17425,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'7'",
           "170 cm"
@@ -17447,7 +17447,7 @@ let superheroes=[
           "Bright Lady",
           "Aly'zrn Summerset"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "UNCANNY X-MEN #141",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -17503,17 +17503,17 @@ let superheroes=[
           "Demon"
         ],
         "placeOfBirth": "Elysium City, Eridanus II",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Microsoft",
         "alignment": "good"
       },
       "work": {
         "occupation": "Master Chief Petty Officer of the Navy",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "United Nations Space Command, Navy",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/435-master-chief.jpg",
@@ -17536,9 +17536,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -17555,14 +17555,14 @@ let superheroes=[
           "Superboy",
           "Superman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
@@ -17589,25 +17589,25 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Matthew Parkman",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S01E02 - Don't Look Back",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -17617,7 +17617,7 @@ let superheroes=[
         "base": "New York, NY; formerly Los Angeles, CA"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Maury Parkman (father), Janice Parkman (ex-wife)"
       },
       "images": {
@@ -17641,7 +17641,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'4",
           "193 cm"
@@ -17660,14 +17660,14 @@ let superheroes=[
           "Chris",
           "Bolt"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men Unlimited #8 (1995)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Mercenary; former adventurer, student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "(As Maverick) Formerly Gene Nation, Cable?s Underground; (as Bolt) formerly New Warriors",
@@ -17694,7 +17694,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -17714,7 +17714,7 @@ let superheroes=[
           "Empress of the Almeracian Empire"
         ],
         "placeOfBirth": "Almerac",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
@@ -17724,7 +17724,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Justice League Task Force, Extreme Justice",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/439-maxima.jpg",
@@ -17747,35 +17747,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Maya Herrera",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Dominican Republic",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "NBC - Heroes",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Alejandro (twin brother)"
       },
       "images": {
@@ -17852,7 +17852,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -17876,13 +17876,13 @@ let superheroes=[
           "Nancy Forrester"
         ],
         "placeOfBirth": "Roanoke, Virginia",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Boom-Boom",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer, former student, thief",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Nextwave, X-Force, Genoshan Mutates, New Mutants, X-Terminators, X-Factor (trainee), Fallen Angels",
@@ -17909,7 +17909,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'6",
           "198 cm"
@@ -17942,13 +17942,13 @@ let superheroes=[
           "many others"
         ],
         "placeOfBirth": "Hell",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Lord of a realm of Hell",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Hell-lords, Lords of the Splinter Realms; formerly manipulator of the Six-Fingered Hand",
@@ -17996,7 +17996,7 @@ let superheroes=[
           "Aquagirl",
           "Water-Woman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Aquaman #11 (October, 1963)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -18046,9 +18046,9 @@ let superheroes=[
         "fullName": "John Corben",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -18059,7 +18059,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Superman Revenge Squad",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/445-metallo.jpg",
@@ -18082,7 +18082,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -18098,9 +18098,9 @@ let superheroes=[
         "fullName": "Metron",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -18111,7 +18111,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "New Gods",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/448-metron.jpg",
@@ -18134,9 +18134,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -18152,8 +18152,8 @@ let superheroes=[
         "aliases": [
           "MicahSanders500"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "NBC - Heroes",
         "alignment": "good"
       },
@@ -18162,7 +18162,7 @@ let superheroes=[
         "base": "New Orleans, LA"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
       },
       "images": {
@@ -18188,7 +18188,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -18196,7 +18196,7 @@ let superheroes=[
           "0 kg"
         ],
         "eyeColor": "Blue",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -18207,17 +18207,17 @@ let superheroes=[
           "Mikester",
           "Michaelangelo"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "IDW Publishing",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Leonardo (brother), Donatello (brother), Raphael (brother)"
       },
       "images": {
@@ -18241,7 +18241,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'",
           "183 cm"
@@ -18260,18 +18260,18 @@ let superheroes=[
           "Colossal Boy (mostly known as Colossal Boy",
           "although he dislikes that name himself)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "United Planets, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/451-micro-lad.jpg",
@@ -18294,7 +18294,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -18320,8 +18320,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Brotherhood Of Mutants, Excalibur, X-Men, former agent of Onslaught and Sledge",
@@ -18348,9 +18348,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -18366,18 +18366,18 @@ let superheroes=[
         "aliases": [
           "Batgirl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Birds of Prey #96",
         "publisher": "Batgirl V",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Dalten Towers, Metropolis"
       },
       "connections": {
         "groupAffiliation": "Birds of Prey",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/454-misfit.jpg",
@@ -18400,7 +18400,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -18430,7 +18430,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Teen Titans",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/455-miss-martian.jpg",
@@ -18514,8 +18514,8 @@ let superheroes=[
           "190 lb",
           "86 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Victor Fries",
@@ -18525,14 +18525,14 @@ let superheroes=[
           "Doctor Zero",
           "Doctor Schimmell"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #121 (Feb. 1959)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Assorted Batman rogues, The Society",
@@ -18561,7 +18561,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Spartoi",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -18616,34 +18616,34 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Mr. Mxyzptlk",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Superman #30",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/459-mister-mxyzptlk.jpg",
@@ -18731,7 +18731,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -18747,18 +18747,18 @@ let superheroes=[
         "aliases": [
           "Mr Zsasz"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Serial Killer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
@@ -18856,17 +18856,17 @@ let superheroes=[
           "M.O.D.O.K.",
           "Mental Organism Designed Only for Killing"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Tales of Suspense #93",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Would-be conqueror, AIM leader, terrorist; former AIM agent, technician",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "M.O.D.O.K. Superior (clone), Head Case (son), Number None (son)"
       },
       "images": {
@@ -18890,7 +18890,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'5",
           "196 cm"
@@ -18906,16 +18906,16 @@ let superheroes=[
         "fullName": "Mark Raxton",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #28 (1965)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Security guard for Osborn industries, former criminal, lab assistant",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Exterminators",
@@ -18942,25 +18942,25 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Monica Dawson",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S02E04 - The Kindness of Strangers",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -18970,7 +18970,7 @@ let superheroes=[
         "base": "New Orleans, LA"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Nana Dawson (Grandmother), Damon (brother), DL Hawkins (cousin), Niki Sanders (cousin-in-law once removed), Micah Sanders (second cousin)"
       },
       "images": {
@@ -19051,7 +19051,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -19104,7 +19104,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -19120,20 +19120,20 @@ let superheroes=[
         "fullName": "Morlun",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #30 (2001)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/472-morlun.jpg",
@@ -19156,7 +19156,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -19174,18 +19174,18 @@ let superheroes=[
         "aliases": [
           "Magnum Force,"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Terrorist, president of Magnum Munitions; former ruler of Canaan",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Magnum Force (leader), agent of Apocalypse; former agent of They Who Wield Power",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/474-moses-magnum.jpg",
@@ -19224,20 +19224,20 @@ let superheroes=[
         "fullName": "Craig Hollis",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "West Coast Avengers Vol 2 #46",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
@@ -19280,14 +19280,14 @@ let superheroes=[
           "The Hero's Hero",
           "Bob Parr"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Incredible Family",
@@ -19314,7 +19314,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -19333,17 +19333,17 @@ let superheroes=[
           "She-Thing"
         ],
         "placeOfBirth": "Pullman, Washington",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "She-Thing",
         "alignment": "good"
       },
       "work": {
         "occupation": "Wanderer, former adventurer, wrestler, stunt woman, scuba diver, motorcycle performer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Former member of the Fantastic Four, Frightful Four, Unlimited Class Wrestling Federation, Thunderiders",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/477-ms-marvel-ii.jpg",
@@ -19366,7 +19366,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11'",
           "180 cm"
@@ -19382,7 +19382,7 @@ let superheroes=[
         "fullName": "James Arthur",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Los Alamos, New Mexico",
         "firstAppearance": "GIANT-SIZE FANTASTIC FOUR #4",
@@ -19491,7 +19491,7 @@ let superheroes=[
         "aliases": [
           "Mallory Brickman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -19588,7 +19588,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -19614,8 +19614,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Agents of Atlas, Long-time ally of Namor; Monster Hunters, Invaders, All Winners Squad; At one time or another was partnered with FBI Agent Jimmy Woo, Sun Girl, Venus, Golden Girl, Hulk",
@@ -19642,7 +19642,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -19704,27 +19704,27 @@ let superheroes=[
           "121 lb",
           "54 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Shueisha",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Konohagakure"
       },
       "connections": {
         "groupAffiliation": "Team 7",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/485-naruto-uzumaki.jpg",
@@ -19763,20 +19763,20 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Avengers #257 (July, 1985)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Graces, United Front, former leader of a mercenary band",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/487-nebula.jpg",
@@ -19801,7 +19801,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -19817,18 +19817,18 @@ let superheroes=[
         "aliases": [
           "Warhead"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New X-Men #115",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/488-negasonic-teenage-warhead.jpg",
@@ -19879,7 +19879,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Secret Avengers, SHIELD (both incarnations); formerly Team Valkyrie, C.I.A., liaison to MI-5, O.S.S., Howling Commandos, U.S. Army",
@@ -19906,7 +19906,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9'",
           "175 cm"
@@ -19922,7 +19922,7 @@ let superheroes=[
         "fullName": "Kurt Wagner",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Somewhere in the Bavarian Alps",
         "firstAppearance": "GIANT-SIZE X-MEN #1",
@@ -20019,9 +20019,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -20038,7 +20038,7 @@ let superheroes=[
           "Jessica",
           "Gina"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Heroes S01E01 - Genesis",
         "publisher": "NBC - Heroes",
         "alignment": "good"
@@ -20048,7 +20048,7 @@ let superheroes=[
         "base": "Las Vegas, NV"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "DL Hawkins (husband), Hal Sanders (father), Micah Sanders (son), Jessica Sanders (sister,deceased), Monica Dawson (cousin-in-law), Damon Dawson (cousin-in-law), Paulette Hawkins (mother-in-law)"
       },
       "images": {
@@ -20074,34 +20074,34 @@ let superheroes=[
         "gender": "Female",
         "race": "Alpha",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "SyFy",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alphas",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/493-nina-theroux.jpg",
@@ -20124,7 +20124,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -20149,7 +20149,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "None, formerly Hydra, Xavier Institute Faculty/Alpha Squadron (teacher/advisor), X-Men, Alpha Flight, Front de Lib?ration du Qu?bec/Cell Combattre",
@@ -20253,13 +20253,13 @@ let superheroes=[
           "Frances Hyatt",
           "Human Torch"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fantastic Four #164 (November, 1975)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "World-ship of Galactus"
       },
       "connections": {
@@ -20346,17 +20346,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Luke O'Brian",
@@ -20365,18 +20365,18 @@ let superheroes=[
           "Ernie McDunnagh",
           "Plastic Lad"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/499-offspring.jpg",
@@ -20408,7 +20408,7 @@ let superheroes=[
           "154 lb",
           "69 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "No Hair"
       },
       "biography": {
@@ -20417,7 +20417,7 @@ let superheroes=[
         "aliases": [
           "Caped Baldy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "One Punch - Chapter 1, Volume 1",
         "publisher": "Shueisha",
         "alignment": "good"
@@ -20427,7 +20427,7 @@ let superheroes=[
         "base": "Z-City"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Genos (partner)"
       },
       "images": {
@@ -20450,18 +20450,18 @@ let superheroes=[
         "combat": 100
       },
       "appearance": {
-        "gender": "-",
+        "gender": "Others",
         "race": "Cosmic Entity",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -20469,17 +20469,17 @@ let superheroes=[
         "aliases": [
           "One Above All"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Doctor Strange Vol 2 #13",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Living Tribunal (creation)"
       },
       "images": {
@@ -20527,7 +20527,7 @@ let superheroes=[
           "the Entity",
           "Dark Xavier"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -20537,7 +20537,7 @@ let superheroes=[
         "base": "Central Park Citadel, Astral Fortress"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Professor Charles Xavier (fusee, deceased); Magneto (fusee)"
       },
       "images": {
@@ -20580,7 +20580,7 @@ let superheroes=[
           "Batgirl",
           "Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Suicide Squad #23 (Jan.1989)",
         "publisher": "Batgirl",
         "alignment": "good"
@@ -20614,9 +20614,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -20630,19 +20630,19 @@ let superheroes=[
         "fullName": "Amon Tomaz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Shiruta, Kahndaq"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Isis (Sister, deceased), Black Adam (Brother-in-Law)"
       },
       "images": {
@@ -20668,7 +20668,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -20684,14 +20684,14 @@ let superheroes=[
         "aliases": [
           "The World's Smartest Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Watchmen #1",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly The Crimebusters",
@@ -20717,24 +20717,24 @@ let superheroes=[
         "combat": 25
       },
       "appearance": {
-        "gender": "-",
+        "gender": "Others",
         "race": "Parademon",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Apokalips",
         "firstAppearance": "New Gods #1",
@@ -20742,12 +20742,12 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Darkseid",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/509-parademon.jpg",
@@ -20779,8 +20779,8 @@ let superheroes=[
           "260 lb",
           "117 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Paul Blart",
@@ -20788,18 +20788,18 @@ let superheroes=[
         "aliases": [
           "Mall Cop"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Sony Pictures",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/510-paul-blart.jpg",
@@ -20838,9 +20838,9 @@ let superheroes=[
         "fullName": "Oswald Chesterfield Cobblepot",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -20850,7 +20850,7 @@ let superheroes=[
         "base": "Gotham City"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
       },
       "images": {
@@ -20874,7 +20874,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -20890,20 +20890,20 @@ let superheroes=[
         "fullName": "Tinya Wazzo",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "United Planets, Bgztl"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/516-phantom-girl.jpg",
@@ -20945,7 +20945,7 @@ let superheroes=[
           "Redd Dayspring",
           "Marvel Girl"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men #1 (September, 1963)",
         "publisher": "Jean Grey",
         "alignment": "good"
@@ -21008,7 +21008,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts (as Blackheath), Crime Wave, Defenders (Villains) , New Enforcers, former associate of the Maggia under Count Nefaria, ally of Wizard.",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/518-plantman.jpg",
@@ -21047,16 +21047,16 @@ let superheroes=[
         "fullName": "Patrick O'Brian",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Police Comics #1 (August, 1941)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Government Agent",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
@@ -21083,7 +21083,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -21099,9 +21099,9 @@ let superheroes=[
         "fullName": "Bette Sans Souci",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fury of Firestorm #7",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -21151,7 +21151,7 @@ let superheroes=[
         "fullName": "Pamela Isley",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Seattle, Washington",
         "firstAppearance": "Batman #181 (June 1966)",
@@ -21164,7 +21164,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/522-poison-ivy.jpg",
@@ -21263,14 +21263,14 @@ let superheroes=[
           "Karen Starr",
           "Nightwing"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "All-Star Comics #58 (January/February 1976)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Justice Society of America, Justice League Europe, Infinity, Inc., Sovereign Seven",
@@ -21306,8 +21306,8 @@ let superheroes=[
           "520 lb",
           "234 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Yautja",
@@ -21323,12 +21323,12 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/526-predator.jpg",
@@ -21427,13 +21427,13 @@ let superheroes=[
           "Adrian Zoom",
           "Mister Zyx"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash #139 (September, 1963)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Central Cityplex, 25th Century"
       },
       "connections": {
@@ -21604,7 +21604,7 @@ let superheroes=[
         "aliases": [
           "Kilgrave"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Daredevil #4 (October, 1964)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -21638,7 +21638,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -21654,20 +21654,20 @@ let superheroes=[
         "fullName": "St. John Allerdyce",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Sydney, Australia",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Former government agent, terrorist, bodyguard, novelist, journalist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Freedom Force, Brotherhood of Evil Mutants",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/532-pyro.jpg",
@@ -21692,15 +21692,15 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Q",
@@ -21708,18 +21708,18 @@ let superheroes=[
         "aliases": [
           "Q Continuum"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Star Trek",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/533-q.jpg",
@@ -21760,7 +21760,7 @@ let superheroes=[
         "aliases": [
           "Vic Sage"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -21771,7 +21771,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly L.A.W., JLA, Black Lantern Corps",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/535-question.jpg",
@@ -21848,7 +21848,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'4",
           "163 cm"
@@ -21866,18 +21866,18 @@ let superheroes=[
         "aliases": [
           "Max"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New X-Men: Academy X #1",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "X-Mansion"
       },
       "connections": {
         "groupAffiliation": "Corsairs",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/537-quill.jpg",
@@ -21954,34 +21954,34 @@ let superheroes=[
         "gender": "Female",
         "race": "Alpha",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "SyFy",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Alphas",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/539-rachel-pirzad.jpg",
@@ -22025,12 +22025,12 @@ let superheroes=[
         ],
         "placeOfBirth": "Bowie, Arizona",
         "firstAppearance": "First Blood (Novel, 1972)",
-        "publisher": null,
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
         "occupation": "United States Army soldier (former)",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "United States Army (former)",
@@ -22059,33 +22059,33 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "No Hair"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teenage Mutant Ninja Turtles #1",
         "publisher": "IDW Publishing",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Leonardo (brother), Donatello (brother), Michelangelo (brother)"
       },
       "images": {
@@ -22135,7 +22135,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, high school student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Teen Titans, formerly Sentinels of Magic",
@@ -22178,9 +22178,9 @@ let superheroes=[
         "fullName": "Ray Terrill",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Ray #1",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -22233,7 +22233,7 @@ let superheroes=[
           "Arsenal",
           "Speedy"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007)",
         "publisher": "DC Comics",
         "alignment": "good"
@@ -22289,14 +22289,14 @@ let superheroes=[
           "Nightwing",
           "Arkham Knight"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #635",
         "publisher": "Robin II",
         "alignment": "neutral"
       },
       "work": {
         "occupation": "Mercenary, Vigilante",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "formerly Batman Family, Teen Titans",
@@ -22344,18 +22344,18 @@ let superheroes=[
           "Thunderbolt",
           "General Ross"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
       },
       "work": {
         "occupation": "Lieutenant general in US Air Force",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Code Red, AIM; Formerly Offenders",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/547-red-hulk.jpg",
@@ -22378,17 +22378,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Chris Genovese",
@@ -22396,17 +22396,17 @@ let superheroes=[
         "aliases": [
           "The Red Mist"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Kick-Ass #5",
         "publisher": "Icon Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Johnny G (father)"
       },
       "images": {
@@ -22458,7 +22458,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City; Titans Tower, San Francisco"
       },
       "connections": {
@@ -22486,7 +22486,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -22518,8 +22518,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Special operative in the government of Germany's Third Reich, former leader of most currently active Nazi subversives throughout the world, former ally of THEM and A.I.M., former leader of the Nevada-based fragment of Hydra, leader of the People's Militia",
@@ -22568,13 +22568,13 @@ let superheroes=[
           "Tornado Man Dreaming",
           "\"Reddy\""
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Happy Harbor, Rhode Island"
       },
       "connections": {
@@ -22618,7 +22618,7 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Jakku",
         "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
@@ -22631,7 +22631,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Resistence",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/555-rey.jpg",
@@ -22673,7 +22673,7 @@ let superheroes=[
           "Alex O'Hirn",
           "Mecha-Rhino"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #41",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -22707,7 +22707,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -22723,9 +22723,9 @@ let superheroes=[
         "fullName": "Richard Rogers Flag",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Brave and the Bold #25 (September 1959)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -22759,17 +22759,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Edward Nigma",
@@ -22778,18 +22778,18 @@ let superheroes=[
           "E. Nigma",
           "Edward E. Nigma"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #140 (1948)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/558-riddler.jpg",
@@ -22814,7 +22814,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -22836,13 +22836,13 @@ let superheroes=[
           "Hunter",
           "Carter"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Showcase #20",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Time Lab, Arizona"
       },
       "connections": {
@@ -22890,13 +22890,13 @@ let superheroes=[
           "The Target",
           "Freddie Dinardo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #38 (April, 1940)",
         "publisher": "Batman II",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Wayne Tower, Gotham City; formerly the Batcave;  formerly Bl?dhaven;  formerly New York City"
       },
       "connections": {
@@ -22948,14 +22948,14 @@ let superheroes=[
           "Jaybird",
           "Arkham Knight"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Detective Comics #524",
         "publisher": "Red Hood",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Batman Family, Teen Titans, Challengers from Beyond",
@@ -23003,7 +23003,7 @@ let superheroes=[
           "Robin",
           "Timothy Wayne"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman #436 (August, 1989)",
         "publisher": "Red Robin",
         "alignment": "good"
@@ -23058,13 +23058,13 @@ let superheroes=[
           "Ibn al Xu'ffasch",
           "Redbird"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Batman: Son of the Demon",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Gotham City"
       },
       "connections": {
@@ -23094,7 +23094,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -23108,20 +23108,20 @@ let superheroes=[
         "fullName": "Carrie Kelley",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Gotham City",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/565-robin-vi.jpg",
@@ -23164,7 +23164,7 @@ let superheroes=[
           "Rocky Raccoon",
           "Ranger Rocket"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Marvel Preview #7 (June, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -23198,7 +23198,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -23227,7 +23227,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, former mechanic, waitress, terrorist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men, formerly X-Treme Sanctions Executive, X-Treme X-Men, Brotherhood of Evil Mutants",
@@ -23284,13 +23284,13 @@ let superheroes=[
           "'Purple Man'; impersonated Constrictor & Dreadknight"
         ],
         "placeOfBirth": "Waverly, Iowa",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Goliath",
         "alignment": "good"
       },
       "work": {
         "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Avengers; formerly founding member of Avengers West Coast and first chairman, Thunderbolts, S.H.I.E.L.D. (unofficial), Chain Gang 421-011, Shadows, Great Lakes Avengers, Cross Technological Enterprises, Defenders, Carson Carnival of Traveling Wonders, Ti",
@@ -23333,20 +23333,20 @@ let superheroes=[
         "fullName": "Walter Joseph Kovacs",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Vigilante, former garment worker",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Crimebusters",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/569-rorschach.jpg",
@@ -23388,7 +23388,7 @@ let superheroes=[
           "Slasher",
           "El Tigre"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Iron Fist #14 (August, 1977)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -23422,7 +23422,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'7'",
           "170 cm"
@@ -23438,7 +23438,7 @@ let superheroes=[
         "fullName": "Tessa",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Place of birth unknown",
         "firstAppearance": "X-MEN Vol. 1 #132",
@@ -23451,7 +23451,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Excalibur, formerly X-Men, X-Treme Sanctions Executive, X-Treme X-Men, Hellfire Club",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/571-sage.jpg",
@@ -23501,7 +23501,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Professional Criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "(Formerly) Sinister Twelve, the Sinister Six, the Frightful Four, the Outlaws and the Wild Pack, reserve member of the Avengers",
@@ -23528,7 +23528,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "10'",
           "305 cm"
@@ -23548,13 +23548,13 @@ let superheroes=[
           "Wanda Langkowski"
         ],
         "placeOfBirth": "Edmonton, Alberta, Canada",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer, bio-physicist, government operative; former college lecturer, professional football player",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Omega Flight; formerly Alpha Flight, Beta Flight, Gamma Flight, Howling Commandos",
@@ -23590,8 +23590,8 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Sauron",
@@ -23605,18 +23605,18 @@ let superheroes=[
           "Lord of the Rings",
           "The Great Eye"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "J. R. R. Tolkien",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/574-sauron.jpg",
@@ -23639,36 +23639,36 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Kurr",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Image Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Liberty League, Chicago Police Department, Special Operations Strikeforce (S.O.S.)",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/575-savage-dragon.jpg",
@@ -23707,9 +23707,9 @@ let superheroes=[
         "fullName": "Jonathan Crane",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
         "publisher": "DC Comics",
         "alignment": "bad"
@@ -23720,7 +23720,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Injustice Gang",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/576-scarecrow.jpg",
@@ -23769,7 +23769,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Crime-fighter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "None; formerly New Warriors",
@@ -23816,17 +23816,17 @@ let superheroes=[
           "Kaine",
           "Ara?a Escarlata"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Fugitive",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)"
       },
       "images": {
@@ -23906,9 +23906,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -23922,16 +23922,16 @@ let superheroes=[
         "fullName": "Elaine Coll",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Spider-Man: Power of Terror limited series #2 (1995)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Professional criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Hells Kitchen Mob; formerly Sinister Seven, allied with Silvermane",
@@ -23977,18 +23977,18 @@ let superheroes=[
           "Venom",
           "Spider-Man"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #19 (1964)",
         "publisher": "Venom III",
         "alignment": "bad"
       },
       "work": {
         "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Avengers (Osborn's team); formerly Thunderbolts, Masters of Evil, \"Spider-Man Revenge League\"; Sinister Twelve; formerly partners with Mister Hyde and Delilah",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/581-scorpion.jpg",
@@ -24013,34 +24013,34 @@ let superheroes=[
         "gender": "Male",
         "race": "Mutant",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Sebastian Hiram Shaw",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/no-portrait.jpg",
@@ -24085,13 +24085,13 @@ let superheroes=[
           "John Victor Williams",
           "Scout"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Sentry #1 (September, 2000)",
         "publisher": "Marvel Comics",
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "The Watchtower (on top of Stark Tower, where it was formerly located before all memory of him disappeared)"
       },
       "connections": {
@@ -24118,8 +24118,8 @@ let superheroes=[
         "combat": 75
       },
       "appearance": {
-        "gender": "-",
-        "race": null,
+        "gender": "Others",
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -24129,7 +24129,7 @@ let superheroes=[
           "149 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Amahl Farouk",
@@ -24145,18 +24145,18 @@ let superheroes=[
           "Jacob Reisz",
           "Donald Pierce and probably others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men #117 (1979)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "The Astral Plane; Formerly Cairo, Egypt."
       },
       "connections": {
         "groupAffiliation": "Shadow Mob; former head of the Gladiators and the Cairo?s Thieves Quarter",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/584-shadow-king.jpg",
@@ -24195,7 +24195,7 @@ let superheroes=[
         "fullName": "Tasmia Mallor",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Talok VIII",
         "firstAppearance": "Adventure Comics #365",
@@ -24203,12 +24203,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/585-shadow-lass.jpg",
@@ -24304,14 +24304,14 @@ let superheroes=[
         "aliases": [
           "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "MI-5, MI-6, \"Marvel Knights\", Heroes For Hire, Freelance Restorations, Si-Fan, Secret Avengers",
@@ -24338,7 +24338,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'3",
           "191 cm"
@@ -24363,7 +24363,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Warrior",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Force, Blood Cadre Alliance (former member)",
@@ -24461,14 +24461,14 @@ let superheroes=[
           "Thing",
           "Ms Marvel"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Thing #27",
         "publisher": "Ms Marvel II",
         "alignment": "good"
       },
       "work": {
         "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Frightful Four; formerly Fantastic Four, Unlimited Class Wrestling Federation, Thunderiders",
@@ -24511,9 +24511,9 @@ let superheroes=[
         "fullName": "Herman Schultz",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #46",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -24547,7 +24547,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -24565,14 +24565,14 @@ let superheroes=[
         "aliases": [
           "Sandra Deel"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Former partner of Carnage, Carrion (Malcolm McBride), Demogoblin and Doppelganger). Before she became Shriek, she was a rock band groupie and drug dealer.",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Carnage Family",
@@ -24620,13 +24620,13 @@ let superheroes=[
           "Mrs. Chambers",
           "Sybil"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Journey into Mystery #102 (March, 1964)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Broxton/Asgard; Formerly New York City"
       },
       "connections": {
@@ -24656,7 +24656,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -24670,9 +24670,9 @@ let superheroes=[
         "fullName": "Cindy Moon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man Vol 3 #4",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -24722,7 +24722,7 @@ let superheroes=[
         "fullName": "Norrin Radd",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Zenn-La",
         "firstAppearance": "Fantastic Four, Vol. 1 #48",
@@ -24758,7 +24758,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'2",
           "157 cm"
@@ -24813,7 +24813,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -24836,11 +24836,11 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Sira Baz (sister), Farid Amar (nephew), Nazir Amar (brother in-law)"
       },
       "images": {
@@ -24892,7 +24892,7 @@ let superheroes=[
         "alignment": "neutral"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
       },
       "connections": {
@@ -24936,19 +24936,19 @@ let superheroes=[
         "fullName": "Hila",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Aquaman #22 (August, 1965)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "formely Atlantis"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
       },
       "images": {
@@ -24972,7 +24972,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -24997,7 +24997,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "(current) Adventurer (former) Professional Criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "(Current) X-Factor (former) Ally of Black Tom and the Juggernaut, Fallen Angels, X-Force",
@@ -25024,7 +25024,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'6",
           "198 cm"
@@ -25054,10 +25054,10 @@ let superheroes=[
       },
       "work": {
         "occupation": "Warrior",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Morris Walters (granduncle), Elaine Banner-Walters (paternal grandaunt, deceased), Brian Banner (paternal grandfather, deceased), Rebecca Banner (paternal grandmother, deceased), She-Hulk (1st cousin once removed), Hulk (father), Caiera the Oldstrong (mother, deceased), Hiro-Kala (Twin brother), Lyra (half-sister)"
       },
       "images": {
@@ -25081,7 +25081,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10'",
           "178 cm"
@@ -25133,9 +25133,9 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -25157,12 +25157,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Kahndaq"
       },
       "connections": {
         "groupAffiliation": "Black Marvel Family, Four Horsemen",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/608-sobek.jpg",
@@ -25209,8 +25209,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
@@ -25237,7 +25237,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -25258,13 +25258,13 @@ let superheroes=[
           "Margie Green"
         ],
         "placeOfBirth": "Shoshoni, Wyoming",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer; former criminal and wrestler",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Thunderbolts, Masters of Evil, Unlimited Class Wrestling Federation, Grapplers",
@@ -25300,8 +25300,8 @@ let superheroes=[
           "250 lb",
           "113 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Thaddeus Bach",
@@ -25310,18 +25310,18 @@ let superheroes=[
           "Ted Ghostel",
           "Tad Ghostal"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Space Ghost (1966)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Galactic Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/611-space-ghost.jpg",
@@ -25369,7 +25369,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Hell"
       },
       "connections": {
@@ -25399,7 +25399,7 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -25421,18 +25421,18 @@ let superheroes=[
           "Hal Jordan",
           "Cripus Allen"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "More Fun Comics #52 (February, 1940)",
         "publisher": "Aztar",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/613-spectre.jpg",
@@ -25457,7 +25457,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -25482,7 +25482,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Nightclub Owner",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Team Arrow",
@@ -25525,7 +25525,7 @@ let superheroes=[
         "fullName": "May 'Mayday' Parker",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "New York City, New York",
         "firstAppearance": "What If? Vol 2 #105 (February, 1998)",
@@ -25533,12 +25533,12 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "New York City, New York"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/618-spider-girl.jpg",
@@ -25579,14 +25579,14 @@ let superheroes=[
         "aliases": [
           "Spider-Woman"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Edge of Spider-Verse #2",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Warriors of the Great Web; formerly Mary Janes, Spider-Army",
@@ -25707,7 +25707,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Former agent of HYDRA",
@@ -25734,7 +25734,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -25750,7 +25750,7 @@ let superheroes=[
         "fullName": "Martha Franklin",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Rochester, New York",
         "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
@@ -25758,8 +25758,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Gathering of the Five",
@@ -25802,20 +25802,20 @@ let superheroes=[
         "fullName": "S'chn T'gai Spock",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Star Trek S01E01: The Man Trap",
         "publisher": "Star Trek",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/627-spock.jpg",
@@ -25857,14 +25857,14 @@ let superheroes=[
           "Porcupine",
           "Armadillo"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Morlocks; Formerly: X-Men",
@@ -25909,7 +25909,7 @@ let superheroes=[
         "aliases": [
           "Starlord"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Marvel Preview #4 (January, 1976)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -25943,17 +25943,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
@@ -25961,18 +25961,18 @@ let superheroes=[
         "aliases": [
           "Entity Lambda-Zero"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Herald of Galactus",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Heralds of Galactus ; Formerly United Front",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/631-stardust.jpg",
@@ -26069,13 +26069,13 @@ let superheroes=[
           "Star",
           "Stars"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Stars and S.T.R.I.P.E. #0 (July, 1999)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Manhattan, New York City; Formerly Beverly Hills, California; later Blue Valley, Nebraska; later Metropolis"
       },
       "connections": {
@@ -26158,7 +26158,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'7",
           "201 cm"
@@ -26211,35 +26211,35 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "Blond"
       },
       "biography": {
         "fullName": "Stephanie Powell",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "No Ordinary Family S01E01 (2010)",
         "publisher": "ABC Studios",
         "alignment": "good"
       },
       "work": {
         "occupation": "Executive Vice President of Research at Global Tech",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Jim Powell (husband), Daphne Powell (daughter), JJ Powell (son)"
       },
       "images": {
@@ -26281,18 +26281,18 @@ let superheroes=[
         "aliases": [
           "Steppenwulf"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The New Gods #7",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/637-steppenwolf.jpg",
@@ -26388,27 +26388,27 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
         "publisher": "George Lucas",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/639-stormtrooper.jpg",
@@ -26486,7 +26486,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'7",
           "170 cm"
@@ -26511,7 +26511,7 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "San Francisco; Smallville; Formerly Metropolis; Formerly Honolulu"
       },
       "connections": {
@@ -26563,7 +26563,7 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
       },
       "connections": {
@@ -26714,7 +26714,7 @@ let superheroes=[
         "gender": "Male",
         "race": "God / Eternal",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -26734,14 +26734,14 @@ let superheroes=[
           "Le Bon Gumbo",
           "Smalsh-Yegger (on Rann)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Swamp Thing #1 (November, 1972)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Planet Elemental, former Biochemist",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
@@ -26784,9 +26784,9 @@ let superheroes=[
         "fullName": "Fritz von Meyer",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Champions #14 (July, 1977)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -26797,7 +26797,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Leader of the All-New Sinister Six; formerly Exterminators, Nazi Party",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/646-swarm.jpg",
@@ -26820,17 +26820,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Gabriel Gray",
@@ -26842,8 +26842,8 @@ let superheroes=[
           "Zane Taylor",
           "Isaac Mendez"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "NBC - Heroes",
         "alignment": "bad"
       },
@@ -26852,7 +26852,7 @@ let superheroes=[
         "base": "New York, NY"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Virginia Gray (mother)"
       },
       "images": {
@@ -26876,7 +26876,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'11",
           "180 cm"
@@ -26892,9 +26892,9 @@ let superheroes=[
         "fullName": "Everett Thomas",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "X-Men #36 (1994)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -26937,8 +26937,8 @@ let superheroes=[
           "325 lb",
           "146 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 1000 Terminator",
@@ -26947,18 +26947,18 @@ let superheroes=[
           "T-1001",
           "T-1002"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Terminator 2: Judgment Day",
         "publisher": "Dark Horse Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/649-t-1000.jpg",
@@ -26983,7 +26983,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -26991,7 +26991,7 @@ let superheroes=[
           "176 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 800 Terminator Model 101",
@@ -26999,18 +26999,18 @@ let superheroes=[
         "aliases": [
           "Terminator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Terminator (1984)",
         "publisher": "Dark Horse Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Assassin",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/650-t-800.jpg",
@@ -27035,7 +27035,7 @@ let superheroes=[
         "gender": "Male",
         "race": "Cyborg",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -27043,7 +27043,7 @@ let superheroes=[
           "198 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series 850 Terminator",
@@ -27051,18 +27051,18 @@ let superheroes=[
         "aliases": [
           "Terminator"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
         "publisher": "Dark Horse Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Assassin",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/651-t-850.jpg",
@@ -27087,34 +27087,34 @@ let superheroes=[
         "gender": "Female",
         "race": "Cyborg",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "330 lb",
           "149 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Cyberdyne Systems Series X Terminator",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Dark Horse Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Assassin / Genesis Overseer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Skynet",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/652-t-x.jpg",
@@ -27153,9 +27153,9 @@ let superheroes=[
         "fullName": "Tony Masters",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Avengers #195",
         "publisher": "Marvel Comics",
         "alignment": "bad"
@@ -27165,7 +27165,7 @@ let superheroes=[
         "base": "Bagalia; A.I.M Island, Taskmaster's Academy"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Mercedes Merced (wife), Jeanne Foucault (Finesse, alleged daughter)"
       },
       "images": {
@@ -27189,7 +27189,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'4",
           "163 cm"
@@ -27205,16 +27205,16 @@ let superheroes=[
         "fullName": "Angel Salvadore Bohusk",
         "alterEgos": "Angel Salvadore",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "New X-Men #118 (November, 2001)",
         "publisher": "Angel Salvadore",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly New Warriors; Special Class",
@@ -27296,17 +27296,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Vince Faraday",
@@ -27314,17 +27314,17 @@ let superheroes=[
         "aliases": [
           "Cape"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Cape S01E01 (2011)",
-        "publisher": null,
+        "publisher": "Others",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Trip Faraday (son), Dana Thompson-Faraday (wife)"
       },
       "images": {
@@ -27366,7 +27366,7 @@ let superheroes=[
         "aliases": [
           "Eddie Blake"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Watchmen #1 (September, 1986)",
         "publisher": "DC Comics",
         "alignment": "neutral"
@@ -27538,18 +27538,18 @@ let superheroes=[
           "Thorita",
           "Thor Lass"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Thor, Volume 2, #22; (as Thor Girl) Thor, Volume 2, #33",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Camp Hammond; FormerlyNew York City, Formerly Asgard"
       },
       "connections": {
         "groupAffiliation": "Ally of the Asgardians",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/660-thor-girl.jpg",
@@ -27572,7 +27572,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -27588,7 +27588,7 @@ let superheroes=[
         "fullName": "John Proudstar",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Camp Verde, Arizona",
         "firstAppearance": "Giant-Size X-Men #1 (1975)",
@@ -27624,7 +27624,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'6",
           "198 cm"
@@ -27642,14 +27642,14 @@ let superheroes=[
         "aliases": [
           "Thor"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "(as Thunderstrike) Adventurer, crimefighter, (as Masterson) Architect",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "(At time of death) Avengers; (Formerly) Legion of the Unliving, Thor Corps",
@@ -27676,7 +27676,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "7'2",
           "218 cm"
@@ -27692,9 +27692,9 @@ let superheroes=[
         "fullName": "Thundra",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fantastic Four #129 (December, 1972)",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -27752,8 +27752,8 @@ let superheroes=[
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Villains for Hire, Lethal Legion, Dr. Dorcas; Masters of Evil; Namor's Deep Six; Attuma's Deep Six; Offenders",
@@ -27780,7 +27780,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'10",
           "178 cm"
@@ -27833,7 +27833,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'4",
           "163 cm"
@@ -27849,19 +27849,19 @@ let superheroes=[
         "fullName": "Phineas Mason",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Amazing Spider-Man #2 (1963)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Inventor and technician serving the underworld",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Deborah Watts Mason (wife, deceased), Rick Mason (aka Agent, son, deceased)"
       },
       "images": {
@@ -27910,11 +27910,11 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former criminal",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "198; (formerly) Brotherhood of Evil Mutants, Misfits; (formerly) associate of Gideon, Emma Frost",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/670-toad.jpg",
@@ -27962,7 +27962,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Police officer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Ally of Spider-Man and Black Cat",
@@ -28049,7 +28049,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -28069,18 +28069,18 @@ let superheroes=[
           "Una",
           "Triad"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Teen Titans/Legion Special #1",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Earth, 31st century"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/676-triplicate-girl.jpg",
@@ -28119,7 +28119,7 @@ let superheroes=[
         "fullName": "Triton",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Island of Attilan, Atlantic Ocean",
         "firstAppearance": "Fantastic Four #45 (December, 1965)",
@@ -28127,8 +28127,8 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Inhuman Royal Family, Universal Inhumans, Royal Guard, New Inhuman Elite; formerly Shi'ar Army Elite Corps & Imperial Guard[citation needed], Namor's Deep Six",
@@ -28155,7 +28155,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'0",
           "183 cm"
@@ -28164,8 +28164,8 @@ let superheroes=[
           "182 lb",
           "82 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Harvey Dent",
@@ -28173,17 +28173,17 @@ let superheroes=[
         "aliases": [
           "Apollo"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Reformed criminal; former district attorney",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
       },
       "images": {
@@ -28207,7 +28207,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'6",
           "168 cm"
@@ -28226,14 +28226,14 @@ let superheroes=[
           "Suzy Sherman",
           "Ultra-Girl"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Model",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Initiative, New Warriors",
@@ -28270,7 +28270,7 @@ let superheroes=[
           "331 kg"
         ],
         "eyeColor": "Red",
-        "hairColor": "-"
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Ultron",
@@ -28294,7 +28294,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Mass murderer, scientist, would-be world conqueror, ruler of Phalanx",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Phalanx; formerly Sons of Yinsen, Lethal Legion, Masters of Evil",
@@ -28337,20 +28337,20 @@ let superheroes=[
         "fullName": "",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Jotunheim",
-        "firstAppearance": "-",
+        "firstAppearance": "Others",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Monarch",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Giants of Jotunheim",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/681-utgard-loki.jpg",
@@ -28373,7 +28373,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'5",
           "165 cm"
@@ -28402,7 +28402,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "(former) Outer Circle of Enforcers II, Factor Three, Fallen Angels",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/685-vanisher.jpg",
@@ -28434,7 +28434,7 @@ let superheroes=[
           "163 lb",
           "73 kg"
         ],
-        "eyeColor": "-",
+        "eyeColor": "Others",
         "hairColor": "Black"
       },
       "biography": {
@@ -28455,18 +28455,18 @@ let superheroes=[
           "Bezita (Malaysian dub)",
           "Super Vegeta"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Dragon Ball #17",
         "publisher": "Shueisha",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/686-vegeta.jpg",
@@ -28505,7 +28505,7 @@ let superheroes=[
         "fullName": "Eddie Brock",
         "alterEgos": "Anti-Venom, Toxin",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "New York, New York",
         "firstAppearance": "(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",
@@ -28541,7 +28541,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -28557,19 +28557,19 @@ let superheroes=[
         "fullName": "Angelo Fortunato",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Marvel Knights Spider-Man #7 (2005)",
         "publisher": "Marvel Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Vincente Paolo Fortunato (father), unidentified mother (deceased), Giacomo Fortunato (Jimmy-Six, brother), Anna Fortunato (sister), Mary Fortunato (sister-in-law), James Fortunato (nephew), other unidentified neices or nephews"
       },
       "images": {
@@ -28611,18 +28611,18 @@ let superheroes=[
         "aliases": [
           "Scorpion"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
         "publisher": "Scorpion",
         "alignment": "bad"
       },
       "work": {
         "occupation": "Government operative; former professional criminal, private eye",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Thunderbolts; formerly (as Scorpion) Masters of Evil, \"Spider-Man Revenge League\"; (as Venom) Sinister Twelve",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/689-venom-iii.jpg",
@@ -28654,8 +28654,8 @@ let superheroes=[
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Wade Wilson",
@@ -28663,18 +28663,18 @@ let superheroes=[
         "aliases": [
           "Deadpool"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
         "publisher": "Deadpool",
-        "alignment": "-"
+        "alignment": "Others"
       },
       "work": {
         "occupation": "Conqueror; Adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/690-venompool.jpg",
@@ -28713,19 +28713,19 @@ let superheroes=[
         "fullName": "Cisco Ramon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The New 52: FCBD Special Edition #1",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Rapture (Armando Ramon, brother), Dante Ramon (brother)"
       },
       "images": {
@@ -28821,14 +28821,14 @@ let superheroes=[
           "The Queen of the Unseen",
           "Invisagirl (InvisaVi)"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The Incredibles (Movies, 2004)",
         "publisher": "Dark Horse Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Incredible Family, National Supers Agency",
@@ -28873,13 +28873,13 @@ let superheroes=[
         "aliases": [
           "Victor Shade"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
         "publisher": "Anti-Vision",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
       },
       "connections": {
@@ -28923,7 +28923,7 @@ let superheroes=[
         "fullName": "Mari McCabe",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Zambesi",
         "firstAppearance": "Action Comics #521 (July, 1981)",
@@ -28932,7 +28932,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former Model",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Suicide Squad, Checkmate, Ultramarines, Birds of Prey, Justice League of America",
@@ -28975,7 +28975,7 @@ let superheroes=[
         "fullName": "Adrian Toomes",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Staten Island, New York City",
         "firstAppearance": "Amazing Spider-Man #2",
@@ -28984,7 +28984,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Professional criminal; formerly electronics engineer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly Sinister Twelve, Sinister Six",
@@ -29027,7 +29027,7 @@ let superheroes=[
         "fullName": "Hubert Carpent",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Brooklyn, New York",
         "firstAppearance": "Defenders #131 (May, 1984)",
@@ -29036,10 +29036,10 @@ let superheroes=[
       },
       "work": {
         "occupation": "Cab driver",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Humbert Carpenter (uncle)"
       },
       "images": {
@@ -29090,7 +29090,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Initiative; formerly: Sentinel Squad O*N*E, Office of National Emergency (O*N*E), Crew, Secret Defenders, Worldwatch, Stark Enterprises, Force Works, West Coast Avengers, U.S. Marine Corps",
@@ -29117,7 +29117,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2'",
           "188 cm"
@@ -29147,7 +29147,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Infinity Watch, (as the Magus) head of Universal Church of Truth in an alternate future",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/705-warlock.jpg",
@@ -29170,7 +29170,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'8",
           "173 cm"
@@ -29186,20 +29186,20 @@ let superheroes=[
         "fullName": "Emil LaSalle",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "The New Teen Titans #14 (December 1981)",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Brotherhood of Evil, The Society",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/706-warp.jpg",
@@ -29247,7 +29247,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "X-Men (Team Cyclops), Security Recon; formerly X-Force (Strike Team), X-Corporation, X-Force, New Mutants, Hellions",
@@ -29326,32 +29326,32 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Uatu",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Fantastic Four #13 (April, 1963)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "The Watchers, Friend and Ally of the Fantastic Four, among other Earth heroes",
@@ -29380,7 +29380,7 @@ let superheroes=[
         "gender": "Female",
         "race": "Human",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
@@ -29397,18 +29397,18 @@ let superheroes=[
           "Silk Sister",
           "Sara Lance"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Birds of Prey #1",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
-        "groupAffiliation": "-",
-        "relatives": "-"
+        "groupAffiliation": "Others",
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/711-white-canary.jpg",
@@ -29431,17 +29431,17 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
-          "-",
+          "Others",
           "0 cm"
         ],
         "weight": [
           "- lb",
           "0 kg"
         ],
-        "eyeColor": "-",
-        "hairColor": "-"
+        "eyeColor": "Others",
+        "hairColor": "Others"
       },
       "biography": {
         "fullName": "Drake Burroughs",
@@ -29452,18 +29452,18 @@ let superheroes=[
           "Randall Burroughs",
           "Jahr-Drake Nigle"
         ],
-        "placeOfBirth": "-",
-        "firstAppearance": "-",
+        "placeOfBirth": "Others",
+        "firstAppearance": "Others",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Legion of Super-Heroes",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/713-wildfire.jpg",
@@ -29505,14 +29505,14 @@ let superheroes=[
           "Bucky",
           "Captain America"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
         "publisher": "Marvel Comics",
         "alignment": "good"
       },
       "work": {
         "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Black Widow (partner), Nick Fury (employer); formerly Avengers, New Avengers, Invaders, Kid Commandos, Liberty Legion, Young Allies, Crazy S.U.E.S., Captain America (partner), Falcon (partner)",
@@ -29539,7 +29539,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Female",
-        "race": null,
+        "race": "Others",
         "height": [
           "12'",
           "366 cm"
@@ -29677,18 +29677,18 @@ let superheroes=[
           "Wonder Woman",
           "Cassie Sandsmark"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Wonder Woman (vol. 2) #105 (January 1996)",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Teen Titans, Young Justice, Themyscira",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/718-wonder-girl.jpg",
@@ -29711,7 +29711,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'2",
           "188 cm"
@@ -29794,7 +29794,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Justice League of America, Justice Society of America (pre-Crisis Earth-2 version); All-Star Squadron (pre-Crisis Earth-2 version)",
@@ -29821,7 +29821,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'5'",
           "196 cm"
@@ -29837,7 +29837,7 @@ let superheroes=[
         "fullName": "Wyatt Wingfoot",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
         "placeOfBirth": "Keewazi Reservation, Oklahoma",
         "firstAppearance": "FANTASTIC FOUR #50",
@@ -29930,7 +29930,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "5'9",
           "175 cm"
@@ -29955,7 +29955,7 @@ let superheroes=[
       },
       "work": {
         "occupation": "Former shaman, adventurer, freedom fighter",
-        "base": "-"
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Formerly X-Men, Brotherhood of Mutants, Forge's resistance",
@@ -30050,9 +30050,9 @@ let superheroes=[
         "fullName": "Rita DeMara",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Avengers #264",
         "publisher": "Marvel Comics",
         "alignment": "good"
@@ -30063,7 +30063,7 @@ let superheroes=[
       },
       "connections": {
         "groupAffiliation": "Formerly Guardians of the Galaxy, Avengers, Masters of Evil",
-        "relatives": "-"
+        "relatives": "Others"
       },
       "images": {
         "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/727-yellowjacket-ii.jpg",
@@ -30110,11 +30110,11 @@ let superheroes=[
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Niffleheim"
       },
       "connections": {
-        "groupAffiliation": "-",
+        "groupAffiliation": "Others",
         "relatives": "Utgard-Loki, Loki, and the race of Frost Giants (descendants)"
       },
       "images": {
@@ -30154,16 +30154,16 @@ let superheroes=[
         "fullName": "Yoda",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Star Wars: Episode V - The Empire Strikes Back (1980)",
         "publisher": "George Lucas",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Jedi Order, Jedi High Counsl, Galactic Republic",
@@ -30206,16 +30206,16 @@ let superheroes=[
         "fullName": "Zatanna Zatara",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Hawkman #4",
         "publisher": "DC Comics",
         "alignment": "good"
       },
       "work": {
-        "occupation": "-",
-        "base": "-"
+        "occupation": "Others",
+        "base": "Others"
       },
       "connections": {
         "groupAffiliation": "Misty Kilgore, Seven Soldiers of Victory, Justice League, Sentinels of Magic",
@@ -30242,7 +30242,7 @@ let superheroes=[
       },
       "appearance": {
         "gender": "Male",
-        "race": null,
+        "race": "Others",
         "height": [
           "6'1",
           "185 cm"
@@ -30258,15 +30258,15 @@ let superheroes=[
         "fullName": "Hunter Zolomon",
         "alterEgos": "No alter egos found.",
         "aliases": [
-          "-"
+          "Others"
         ],
-        "placeOfBirth": "-",
+        "placeOfBirth": "Others",
         "firstAppearance": "Flash Secret Files #3",
         "publisher": "DC Comics",
         "alignment": "bad"
       },
       "work": {
-        "occupation": "-",
+        "occupation": "Others",
         "base": "Keystone City, Kansas"
       },
       "connections": {
@@ -30309,7 +30309,7 @@ let superheroes=[
 
 // let optionStrring="";
 //   newdata.forEach((p)=>{
-//     if(p!=null){
+//     if(p!="Others"){
 //       optionStrring+=`<option value='${p}'>${p}</option>`; 
 //     }
 //   })
@@ -30372,11 +30372,13 @@ console.log(JSON.stringify(superheroes));
          
     }   
 
+ 
     display(tempsuperheroes);
 
 // Filter state Management 
 
     let filters = { 
+        name:{active:false,value:""},
         gender:{active:false,value:""},
         publisher:{active:false,value:""},  
       }
@@ -30392,9 +30394,27 @@ console.log(JSON.stringify(superheroes));
       filters[filtername].active = false;
       filters[filtername].value = "";
     }
-    console.log(filters);  
+     
   }
   
+  applyNameFilter = (filtername,value)=>{
+    
+    if(value!=="")
+    {
+      filters[filtername].active = true;
+      filters[filtername].value = value; 
+    }  
+    else{
+      filters[filtername].active = false;
+      filters[filtername].value = "";
+    }
+    applyfilters();
+  }
+
+
+
+
+  // gender filter logic 
   applyfilters=()=>{
 
     tempsuperheroes=superheroes;
@@ -30408,6 +30428,8 @@ console.log(JSON.stringify(superheroes));
       })
 
     }
+
+    // Publisher filter logic 
     if(filters.publisher.active===true){
 
       tempsuperheroes=tempsuperheroes.filter((superhero,index)=>{
@@ -30417,12 +30439,54 @@ console.log(JSON.stringify(superheroes));
       })   
 
     }
+
+    // name filter logic 
+
+    if(filters.name.active===true){
+
+      tempsuperheroes=tempsuperheroes.filter((superhero,index)=>{
+
+        if(superhero.name.toUpperCase().indexOf(filters.name.value.toUpperCase())===0)
+        {
+            return true;
+        } 
+        else{
+          return false; 
+        }
+
+      })   
+
+    }
+
+   // cancel filters 
+   cancelFilter=()=>{
+
+    document.getElementById('filter_form').reset();
+
+    filters.name.active = false;
+    filters.name.value ="";
+    
+    filters.gender.active = false;
+    filters.gender.value = "";
+
+    filters.publisher.active = false;
+    filters.publisher.value =""; 
+
+    tempsuperheroes=superheroes;
+    display(tempsuperheroes); 
+    document.getElementById('count').innerText=tempsuperheroes.length;
+   }
+
+
+
+
+
+
     display(tempsuperheroes); 
     document.getElementById('count').innerText=tempsuperheroes.length;
 
 
   }
- 
  
  
 

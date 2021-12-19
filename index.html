@@ -5,11 +5,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+    
     
     <div class="container">
-
+        <form id="filter_form">
         <div class="filters">
-            <input class="filter_name_field" type="text" placeholder="Search by Name">            
+            <input class="filter_name_field" type="text" placeholder="Search by Name" onkeyup="applyNameFilter('name',this.value)">            
         </div>
 
         <div>
@@ -18,10 +20,11 @@
                     <option value="">select Gender</option>
                     <option value="male">Male</option>
                     <option value="female">Female</option>
-                    <option value="Other">Other</option>
+                    <option value="Others">Other</option>
                 </select>     
                 
                 <select class="filter_field" onchange="selectFilter('publisher',this.value)">
+                    <option value="">Select Publisher</option>
                     <option value='Marvel Comics'>Marvel Comics</option>
                     <option value='Dark Horse Comics'>Dark Horse Comics</option>
                     <option value='DC Comics'>DC Comics</option>
@@ -93,12 +96,14 @@
                 </select>
 
                 <div class="filter_btn">
-                    <button onclick="applyfilters()" class="btn">Apply Filter</button>
-                    <button class="btn">Cancel Filter</button>
+                    <button type="button" onclick="applyfilters()" class="btn">Apply Filter</button>
+                    <button type="button" onclick="cancelFilter()" class="btn">Cancel Filter</button>
                 </div>
             </div>
         </div>
-
+        
+        </form>
+        
         <h1>All superheros (<span id="count">0</span> Found) </h1>
         <div class="superheroes" id="superheroes">
               
