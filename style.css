@@ -2,7 +2,44 @@
     margin: 0px;
     padding: 0px;
 }
-body{
+    
+
+/* css for modal  */
+.modal_parent{
+    height: 100vh;
+    width:100%;
+    position: fixed;
+    background-color: rgba(255, 0, 0, 0.678);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display: none; */
+}
+.model{
+    height: 70vh;
+    width: 60%;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+}
+.model_img{
+    height:100%;
+    width:40%;
+    background-color: purple;
+    display: flex;
+    overflow: hidden;
+
+}
+.model_details{
+    /* height: 200px; */
+    width: 60%;
+    background-color: pink;
+}
+
+
+
+.main{
     font-family: 'Segoe UI';
     display: flex;
     justify-content: center;
@@ -13,8 +50,10 @@ body{
     background: -moz-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
     background: -webkit-linear-gradient(90deg, hsla(333, 100%, 53%, 1) 0%, hsla(33, 94%, 57%, 1) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FF0F7B", endColorstr="#F89B29", GradientType=1 );
+
 }
 
+ 
 /*  css for filters  */
 .filters{
     padding-top: 30px;

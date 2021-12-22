@@ -30316,6 +30316,17 @@ let superheroes=[
 //   console.log(optionStrring);
 
 
+// to view superhero after clicking on img 
+viewSuperhero=()=>{
+  document.getElementById('modal').style.display="flex";
+}
+
+// to close 
+// closeSuperhero=()=>{
+//   document,getElementById('modal').style.display="none";
+// }
+
+
 console.log(JSON.stringify(superheroes)); 
 
     display=(superarray)=>{
@@ -30327,7 +30338,7 @@ console.log(JSON.stringify(superheroes));
             superheroString+=
             `
             <div class="superhero">
-                <div class="superhero_img">
+                <div class="superhero_img" onclick="viewSuperhero()">
                     <img class="img" src="${superhero.images.md}" alt="A-Bomb">
                 </div>
                 <div class="superhero_details">
@@ -30504,9 +30515,9 @@ console.log(JSON.stringify(superheroes));
 
   }
  
- 
-
-
+  
+  
+  
     
  
  
