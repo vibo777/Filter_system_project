@@ -12,35 +12,35 @@
         <div class="model" id="modal">
             
             <div class="model_img">
-                <img src="https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg" alt="">
+                <img id="superhero image" src="https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg" alt="">
             </div>  
             
             <div class="model_details">
                 <div style="padding:20px">
-                    <h1>Blade</h1>
+                    <h1 id="superhero_name">Blade</h1>
                     <!-- Appearance -->
                     <div class="appearance detail">
                         <p class="details_title">Appearance</p>
                         <div class="details">
                             <div>
-                               <p class="property">Male</p>
-                               <p>Male</p>     
+                               <p class="property">Male:</p>
+                               <p class="value" id="superhero_gender">Male</p>     
                             </div>
                             <div>
-                                <p class="property">Height</p>
-                                <p>6.4</p>
+                                <p class="property">Height:</p>
+                                <p class="value" id="superhero_height">6.4</p>
                             </div>
                             <div>
-                                <p class="property">Weigth</p>
-                                <p>121 kg</p> 
+                                <p class="property">Weigth:</p>
+                                <p class="value" id="superhero_height">121 kg</p> 
                             </div>
                             <div>
                                 <p class="property">eye color:</p>
-                                <p>brown</p>
+                                <p class="value" id="superhero_eyecolor">brown</p>
                             </div>
                             <div>
                                 <p class="property">hair color:</p>
-                                <p>black</p>
+                                <p class="value" id="superhero_haircolor">black</p>
                             </div>
                         </div>
                     </div>
@@ -49,11 +49,88 @@
                     <div class="appearance detail">
                         <p class="details_title">Biography</p>
                         <div class="details">
-                            <div><p class="property">Full Name:</p> <p>Richard Milhouse Jones</p></div>
-                            <div><p>Alter Egos :</p> <p>No alter egos found</p> </div>
-                            <div>First Appearance : Hulk Vol 2 #2 (April, 2008) (as A-Bomb)</div>
-                            <div>Publisher : Marvel Comics</div>
-                            <div>hair color:black</div>
+                            <div>
+                                <p class="property">Full Name:</p> 
+                                <p class="value" id="superhero_fullname">Richard Milhouse Jones</p>
+                            </div>
+                            <div>
+                                <p class="property">Alter Egos :</p>
+                                <p class="value" id="superhero_alterego">No alter egos found</p> 
+                            </div>
+                            <div>
+                                <p class="property">First Appearance : </p>
+                                <p class="value" id="superhero_firstapp">Hulk Vol 2 #2 (April, 2008) (as A-Bomb)</p>
+                            </div>
+                            <div>
+                                <p class="property"> Publisher :</p>
+                                <p class="value" id="superhero_publisher"> Marvel Comics</p> 
+                            </div>
+                            <div> 
+                                <p class="property">hair color:</p> 
+                                <p class="value" id="superhero_haircolor"> black </p> 
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- connection -->
+                    <div class="connection detail">
+                        <p class="details_title">Connection</p>
+                        <div class="details">
+                            <div>
+                                <p class="property">groupAffiliation:</p> 
+                                <p class="value" id="superhero_groupaff">Hulk Family; Excelsior (sponsor)</p>
+                            </div>
+                            <div>
+                                <p class="property">Relatives:</p>
+                                <p class="value" id="superhero_relatives">No Relatives found</p> 
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Powerstats -->
+                    <div class="powerstats detail">
+                        <p class="details_title">Power Stats</p>
+                        <div class="details">
+                            <div>
+                                <p class="property">Intelligence</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_intelligence" style="width:90%"></div>
+                                </div> 
+                            </div>
+                            <div>
+                                <p class="property">Strength</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_strength" style="width:45%"></div>
+                                </div> 
+                            </div>
+                            <div>
+                                <p class="property">Power</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_power" style="width:80%"></div>
+                                </div> 
+                            </div>
+                            <div>
+                                <p class="property">Durabilty</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_durability" style="width:60%"></div>
+                                </div> 
+                            </div>
+                            <div>
+                                <p class="property">Combat</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_combat" style="width:80%"></div>
+                                </div> 
+                            </div>
+                            <div>
+                                <p class="property">Speed</p> 
+                                <div class="power_bg">
+                                    <div class="power_fg" id="superhero_speed" style="width:50%"></div>
+                                </div> 
+                            </div>
+
+
+
+                           
                         </div>
                     </div>
 

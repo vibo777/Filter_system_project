@@ -13,10 +13,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    /* display: none; */
+    display: none;
 }
 .model{
-    height: 70vh;
+    height: 90vh;
     width: 60%;
     background-color: white;
     border-radius: 10px;
@@ -42,17 +42,29 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.details>div{
+    width: 30%;
+    margin-bottom: 5px;
+}
+.connection .details div{
+    width:45%;
+}
 .details_title{
     font-size: 15px;
     color: gray;
     margin-bottom: 10px;
+    font-weight: bold;
+    color:rgb(78, 112, 184);
 }
 .property{
     font-size: 16px;
     color:gray;
     font-weight: normal;
 }
-
+.value{ 
+    font-weight: bold;
+    font-size: 17px;
+}
 
 
 .main{
@@ -203,7 +215,7 @@ label{
 .power_bg{
     width: 95%;
     height: 10px;
-    background-color:lightgrey;
+    background-color:rgb(240, 181, 215);
     margin-top: 5px;
 }
 .power_fg{
