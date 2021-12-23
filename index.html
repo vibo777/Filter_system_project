@@ -12,12 +12,16 @@
         <div class="model" id="modal">
             
             <div class="model_img">
-                <img id="superhero image" src="https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg" alt="">
+                <img id="superhero_image" src="https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg" alt="">
             </div>  
             
             <div class="model_details">
                 <div style="padding:20px">
-                    <h1 id="superhero_name">Blade</h1>
+                    <div style="display: flex; justify-content: space-between;">
+                        <h1 id="superhero_name">Blade</h1>
+                        <button class="closebtn" onclick="closeSuperhero()">Close</button>
+                    </div>
+                    
                     <!-- Appearance -->
                     <div class="appearance detail">
                         <p class="details_title">Appearance</p>
@@ -32,7 +36,7 @@
                             </div>
                             <div>
                                 <p class="property">Weigth:</p>
-                                <p class="value" id="superhero_height">121 kg</p> 
+                                <p class="value" id="superhero_weight">121 kg</p> 
                             </div>
                             <div>
                                 <p class="property">eye color:</p>
@@ -64,10 +68,6 @@
                             <div>
                                 <p class="property"> Publisher :</p>
                                 <p class="value" id="superhero_publisher"> Marvel Comics</p> 
-                            </div>
-                            <div> 
-                                <p class="property">hair color:</p> 
-                                <p class="value" id="superhero_haircolor"> black </p> 
                             </div>
                         </div>
                     </div>

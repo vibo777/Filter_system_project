@@ -30282,6 +30282,8 @@ let superheroes=[
     }
   ];
 
+
+
   let tempsuperheroes = superheroes;
 
   document.getElementById('count').innerText=tempsuperheroes.length;
@@ -30317,14 +30319,45 @@ let superheroes=[
 
 
 // to view superhero after clicking on img 
-viewSuperhero=()=>{
-  document.getElementById('modal').style.display="flex";
+viewSuperhero=(id)=>{
+  document.getElementById('modal_parent').style.display="flex";
+  
+  let superhero =superheroes.find((superhero)=>{
+      return superhero.id=== id;
+  })
+
+  document.getElementById('superhero_image').src=superhero.images.md;
+  document.getElementById('superhero_name').innerText=superhero.name;
+ 
+  document.getElementById('superhero_gender').innerText=superhero.appearance.gender;
+  document.getElementById('superhero_height').innerText=superhero.appearance.height;
+  document.getElementById('superhero_weight').innerText=superhero.appearance.weight;
+  document.getElementById('superhero_eyecolor').innerText=superhero.appearance.eyeColor;
+  document.getElementById('superhero_haircolor').innerText=superhero.appearance.hairColor;  
+
+  document.getElementById('superhero_fullname').innerText=superhero.biography.fullName;
+  document.getElementById('superhero_alterego').innerText=superhero.biography.alterEgos;
+  document.getElementById('superhero_firstapp').innerText=superhero.biography.firstAppearance;
+  document.getElementById('superhero_publisher').innerText=superhero.biography.publisher;
+
+  document.getElementById('superhero_groupaff').innerText=superhero.connections.groupAffiliation;
+  document.getElementById('superhero_relatives').innerText=superhero.connections.relatives;
+
+  document.getElementById('superhero_intelligence').style.width=superhero.powerstats.intelligence+"%"; 
+  document.getElementById('superhero_strength').style.width=superhero.powerstats.strength+"%"; 
+  document.getElementById('superhero_power').style.width=superhero.powerstats.power+"%";  
+  document.getElementById('superhero_durability').style.width=superhero.powerstats.durability+"%";  
+  document.getElementById('superhero_combat').style.width=superhero.powerstats.combat+"%";  
+  document.getElementById('superhero_speed').style.width=superhero.powerstats.speed+"%";  
+
+
+
 }
 
 // to close 
-// closeSuperhero=()=>{
-//   document,getElementById('modal').style.display="none";
-// }
+closeSuperhero=()=>{
+  document.getElementById('modal_parent').style.display="none";
+}
 
 
 console.log(JSON.stringify(superheroes)); 
@@ -30338,7 +30371,7 @@ console.log(JSON.stringify(superheroes));
             superheroString+=
             `
             <div class="superhero">
-                <div class="superhero_img" onclick="viewSuperhero()">
+                <div class="superhero_img" onclick="viewSuperhero(${superhero.id})">
                     <img class="img" src="${superhero.images.md}" alt="A-Bomb">
                 </div>
                 <div class="superhero_details">
@@ -30515,8 +30548,7 @@ console.log(JSON.stringify(superheroes));
 
   }
  
-  
-  
+   
   
     
  

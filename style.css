@@ -3,13 +3,12 @@
     padding: 0px;
 }
     
-
 /* css for modal  */
 .modal_parent{
     height: 100vh;
     width:100%;
     position: fixed;
-    background-color: rgba(255, 0, 0, 0.678);
+    background-color: rgba(0, 0, 0, 0.678);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,6 +21,7 @@
     border-radius: 10px;
     display: flex;
     overflow: hidden;
+    /* align-items: center; */
 }
 .model_img{
     height:100%;
@@ -65,7 +65,16 @@
     font-weight: bold;
     font-size: 17px;
 }
-
+.closebtn{
+    background-color: rgb(111, 111, 214);
+    color: white;
+    font-size: 14px;
+    height: 35px;
+    width: 80px;
+    border-radius:8px;
+    outline: none;
+    border:none;
+}
 
 .main{
     font-family: 'Segoe UI';
@@ -150,10 +159,10 @@ label{
     width: 100px;
     border: 1px solid white;
     border-radius:8px;
-    background-color: white;
-    outline: none;
-       
+    background-color:white;
+    outline: none;   
     cursor: pointer;
+    color: black;
 }
 .btn:active{
     border: 1px solid white;
