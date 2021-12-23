@@ -235,6 +235,7 @@
                                     <option value='Others'>Others</option>
                                 </select>
                             </div>    
+                            
                             <div style="display: flex;align-items: center;">
                                 <div class="field_container">    
                                     <label>Min-Weigth:</label>
@@ -246,6 +247,7 @@
                                 </div>
                             </div>
 
+                           
                             
                             
                             
@@ -255,6 +257,31 @@
                             <button type="button" onclick="cancelFilter()" class="btn">Cancel Filter</button>
                         </div>
 
+                        <hr style="width:100%;margin-top:20px;">
+
+                        <div style="display: flex;align-items: center;">
+                            <div class="field_container" style="width:15%;margin: top 20px;">    
+                                <label>Select Sorting property</label>
+                                <select class="filter_fields" id="sortProperty" onchange="sorting()">
+                                    <option value="">Select Property</option>
+                                    <option value="intelligence">Intelligence</option>
+                                    <option value="speed">Speed</option>
+                                    <option value="combat">Combat</option>
+                                    <option value="durabilty">Durabilty</option>
+                                    <option value="power">Power</option>
+                                    <option value="strength">Strength</option>
+                                </select>
+                             </div>
+
+                            <div class="field_container" style="width:15%;margin: top 20px;height: 15%;">    
+                                <label>Select Sorting type</label>
+                                <select class="filter_fields" id="sortType" onchange="sorting()">
+                                    <option value="">Select Sort Type</option>
+                                    <option value="asc">Ascending</option>
+                                    <option value="desc">Descending</option>    
+                                </select>    
+                            </div>
+                        </div> 
 
                     </div>
                 </div>

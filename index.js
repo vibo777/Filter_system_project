@@ -30371,8 +30371,8 @@ console.log(JSON.stringify(superheroes));
             superheroString+=
             `
             <div class="superhero">
-                <div class="superhero_img" onclick="viewSuperhero(${superhero.id})">
-                    <img class="img" src="${superhero.images.md}" alt="A-Bomb">
+                <div class="superhero_img" >
+                    <img onclick="viewSuperhero(${superhero.id})" class="img" src="${superhero.images.md}" alt="A-Bomb">
                 </div>
                 <div class="superhero_details">
                     <h1 class="superhero_name">${superhero.name}</h1>
@@ -30545,7 +30545,29 @@ console.log(JSON.stringify(superheroes));
     display(tempsuperheroes); 
     document.getElementById('count').innerText=tempsuperheroes.length;
 
+  }
 
+  sorting = () =>{
+
+    let sortSuperheroes = [...tempsuperheroes];
+
+    let property = document.getElementById('sortProperty').value;
+    let type = document.getElementById('sortType').value; 
+
+    if(property != "" && type !=""){
+      sortSuperheroes.sort((a,b) =>{
+        if(type === "asc"){
+          return a.powerstats[property] - b.powerstats[property];
+        }
+        else if(type === "desc"){
+          return b.powerstats[property] - a.powerstats[property];
+        }
+      })
+    }
+    else{
+      sortSuperheroes=[...tempsuperheroes];
+    }
+    display(sortSuperheroes);
   }
  
    
