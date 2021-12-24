@@ -287,11 +287,28 @@
                 </div>
 
             </form>
+        
+            <div style="display: flex;justify-content: space-between;"> 
+                <h1>All superheros (<span id="current">1</span> Found) </h1>
 
-            <h1>All superheros (<span id="count">0</span> Found) </h1>
-            <div class="superheroes" id="superheroes">
+                <div style="display: flex;">
+                    <input type="number" placeholder="Go to page" class="filter_filed" id="goto"> 
+                    <button class="btn" onclick="goToPage()">Go</button>
+                </div>
 
+
+
+                <div>
+                    <button class="btn" onclick="prev()">Prev</button>
+                    <button class="btn" onclick="next()">Next</button>        
+                </div>
             </div>
+             
+            <div class="superheroes" id="superheroes">
+                   
+            
+            </div>
+
         </div>
     </div>
 

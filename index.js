@@ -30286,7 +30286,7 @@ let superheroes=[
 
   let tempsuperheroes = superheroes;
 
-  document.getElementById('count').innerText=tempsuperheroes.length;
+
 
 // publisher Extraction code
 
@@ -30358,15 +30358,60 @@ viewSuperhero=(id)=>{
 closeSuperhero=()=>{
   document.getElementById('modal_parent').style.display="none";
 }
+// console.log(JSON.stringify(superheroes)); 
 
+    let start =0;
+    let pageCount = 1;
+    let noOfPages = Math.ceil(tempsuperheroes.length/12);
 
-console.log(JSON.stringify(superheroes)); 
+    // next page functionality
+    next=()=>{
+      
+      if(pageCount < noOfPages){
+        pageCount++;  
+        start+=12;   
+        display(tempsuperheroes);  
+      }
+      
+    }
 
+    // Previous page functionality
+    prev=()=>{
+      if(pageCount>1)
+      {
+        pageCount--; 
+        start-=12;
+        display(tempsuperheroes);
+      }
+    }
+
+    // go to page functionality
+    goToPage=()=>{
+
+      let pageNumber=Number(document.getElementById('goto').value);
+      if(pageNumber!=="" && (pageNumber >= 1 && pageNumber <= noOfPages)){
+
+        start = (pageNumber-1)*12;
+        pageCount = pageNumber;
+        display(tempsuperheroes);
+
+      } 
+      else{
+        alert("Page Number doesn't exist");
+      }
+    }  
+
+ 
+    // let start=0;
     display=(superarray)=>{
 
         let superheroString="";
+     
+        let copySuperArray=[...superarray];
         
-        superarray.map((superhero,index)=>{
+        let displaySuperheroes = copySuperArray.splice(start,12);
+
+        displaySuperheroes.map((superhero,index)=>{
           
             superheroString+=
             `
@@ -30375,7 +30420,7 @@ console.log(JSON.stringify(superheroes));
                     <img onclick="viewSuperhero(${superhero.id})" class="img" src="${superhero.images.md}" alt="A-Bomb">
                 </div>
                 <div class="superhero_details">
-                    <h1 class="superhero_name">${superhero.name}</h1>
+                    <h1 class="superhero_name">${superhero.name} ${superhero.id}</h1>
                     <h3 class="bodystats">${superhero.appearance.gender} ${superhero.appearance.height[0]} ${superhero.appearance.weight[1]}</h3>
                     <div class="powerstats">
                         <p>Intelligence :${superhero.powerstats.intelligence}</p>
@@ -30413,7 +30458,8 @@ console.log(JSON.stringify(superheroes));
             `;
         })
         document.getElementById('superheroes').innerHTML=superheroString;
-         
+        
+        document.getElementById('current').innerText= `Page ${pageCount} of ${noOfPages}`;
     }   
 
  
@@ -30425,12 +30471,14 @@ console.log(JSON.stringify(superheroes));
         name:{active:false,value:""},
         gender:{active:false,value:""},
         publisher:{active:false,value:""}, 
-        minWeight:{active:false, value:""},
+        minWeight:{active:false, value:0},
         maxWeight:{active:false, value:""} 
       }
 
     selectFilter=(filtername,value)=>{
     
+    start=0;
+
     if(value!=="")
     {
       filters[filtername].active = true;
@@ -30444,6 +30492,8 @@ console.log(JSON.stringify(superheroes));
   }
   
   applyNameFilter = (filtername,value)=>{
+
+    start = 0;
     
     if(value!=="")
     {
@@ -30464,7 +30514,7 @@ console.log(JSON.stringify(superheroes));
   applyfilters=()=>{
 
     tempsuperheroes=superheroes;
-
+    
     if(filters.gender.active===true){
 
       tempsuperheroes=superheroes.filter((superheroes,index)=>{
@@ -30541,21 +30591,22 @@ console.log(JSON.stringify(superheroes));
        });
    }
 
- 
+    let noOfPages = Math.ceil(tempsuperheroes.length/12);
+    pageCount=1;  
     display(tempsuperheroes); 
-    document.getElementById('count').innerText=tempsuperheroes.length;
+    
 
   }
 
   sorting = () =>{
 
-    let sortSuperheroes = [...tempsuperheroes];
+    // let sortSuperheroes = [...tempsuperheroes];
 
     let property = document.getElementById('sortProperty').value;
     let type = document.getElementById('sortType').value; 
 
     if(property != "" && type !=""){
-      sortSuperheroes.sort((a,b) =>{
+      tempsuperheroes.sort((a,b) =>{
         if(type === "asc"){
           return a.powerstats[property] - b.powerstats[property];
         }
@@ -30564,10 +30615,8 @@ console.log(JSON.stringify(superheroes));
         }
       })
     }
-    else{
-      sortSuperheroes=[...tempsuperheroes];
-    }
-    display(sortSuperheroes);
+    
+    display(tempsuperheroes);
   }
  
    
